@@ -1,8 +1,12 @@
+
+# =========================================================================================================================
 # 1. Escribe un programa que le pida su nombre al usuario y como salida le diga cuantos caracteres tiene su nombre.
 # -------------------------------------------------------------------------------------------------------------------------
 # name = input("Ingresa tu nombre: ")
 # print("Hola "+name+", tu nombre tiene "+str(len(name))+" caracteres!")
 
+
+# =========================================================================================================================
 # 2. Escribe un programa que le pida primero su nombre al usuario, posteriormente su apellido, crea una variable de nombre
 # completo concatenando el nombre y el apellido y muestra en pantalla
 # -------------------------------------------------------------------------------------------------------------------------
@@ -10,6 +14,8 @@
 # lastname = input("Ingresa tu apedillo XD: ")
 # print("Mi estimado o estimada, pero jamas estimade, tu nombre completo es: "+name+" "+lastname)
 
+
+# =========================================================================================================================
 # 3. Escribe un programa que le pida primero el nombre de su deporte favorito, posteriormente se le pide al usuario su edad.
 # Muestra en pantalla el nombre del deporte el número de veces igual a la edad del usuario.
 # -------------------------------------------------------------------------------------------------------------------------
@@ -17,6 +23,8 @@
 # age = input("Ahora dime tu edad: ")
 # print("Checate esto: "+f"\n{hobbie} "*int(age))
 
+
+# =========================================================================================================================
 # 4. Escribe un programa que al proporcionarle la siguiente clave HomeroSimpson1970SpringfieldUSA nos guarde el nombre, apellido, año, estado y país en variables independientes y
 # porteriormente muestra en pantalla un mensaje de bienvenida utilizando las variables.
 # -------------------------------------------------------------------------------------------------------------------------
@@ -35,6 +43,8 @@
 # print(f"City: {city}")
 # print(f"Country: {country}")
 
+
+# =========================================================================================================================
 # 5. Escribe un programa que te permita ingresar dos numeros enteros y como salida de el resultado de la suma.
 # -------------------------------------------------------------------------------------------------------------------------
 # a = int(input("Ingresa un numero: "))
@@ -42,6 +52,8 @@
 # sum = a+b
 # print("La suma es: " + str(sum))
 
+
+# =========================================================================================================================
 # 6. Escribe un programa que te permita ingresar dos numeros enteros y como salida de el resultado de concatenar los dos números.
 # -------------------------------------------------------------------------------------------------------------------------
 # x = int(input("Ingresa el numero x: "))
@@ -49,11 +61,15 @@
 # concat = (str(x)+str(y))
 # print(concat)
 
+
+# =========================================================================================================================
 # 7. Escribe un programa que te permita ingresar una cadena de texto y el resultado sea esa misma cadena pero en orden totalmente invertido.
 # -------------------------------------------------------------------------------------------------------------------------
 # reverse = (str(input("Ingresa una palabra o frase matona: ")))
 # print(reverse[::-1])
 
+
+# =========================================================================================================================
 # 8. Escribe un programa que te permita ingresar una cadena de texto, porteriormente el programa solicita una cadena a reemplazar,
 # y luego solicita el valor por el cual se reemplazara, como resultado el programa presenta la cadena original pero con el reemplazo indicado.
 # -------------------------------------------------------------------------------------------------------------------------
@@ -64,22 +80,30 @@
 # print(f"Esta fue tu frase inicial: {phrase}")
 # print(f"Esta es la frase corregida: {corrected}")
 
+
+# =========================================================================================================================
 # 9. Escribe un programa que te permita ingresar una cadena de texto y la salida sea la misma cadena pero con todas las letras en mayúsculas.
 # -------------------------------------------------------------------------------------------------------------------------
 # phrase = str(input("Escribe una frase: "))
 # print(str.upper(phrase))
 
+
+# =========================================================================================================================
 # 10. Escribe un programa que te permita ingresar una cadena de texto y el programa indique si la cadena tiene esta formada por caracteres numéricos.
 # -------------------------------------------------------------------------------------------------------------------------
 # text = input("Ingresa algo aqui: ")
 # print(type(text))
 # print("Is the input a Integer?: ", (isinstance(text, int)))
 
+
+# =========================================================================================================================
 # 11. Escribe un program que te permita ingresar una cadena de texto y el programa indique si la cadena esta formada solamente por letras en mayúsculas.
 # -------------------------------------------------------------------------------------------------------------------------
 # text = input("Ingresa algo aqui: ")
 # print("Is the text UPPER?: ", (text.isupper()))
 
+
+# =========================================================================================================================
 # 12. Escribe un programa que te haga preguntas para ordenar una pizza y al final se muestre el resumen del pedido.
 # -------------------------------------------------------------------------------------------------------------------------
 # print("")
@@ -108,11 +132,15 @@
 # elif gender == "Femenino" and bf == "Si" and danger == "Si":
 #    print("Te invito a salir, tu novio podra estar grandote pero yo soy muy valiente")
 
+
+# =========================================================================================================================
 # 13. Escribe un programa que te permita ingresar el nombre de una película y como salida muestre el último caracter de la cadena.
 # -------------------------------------------------------------------------------------------------------------------------
 # movie_title = input("Ingresa el nombre de una pelicula: ")
 # print(movie_title[-1])
 
+
+# =========================================================================================================================
 # 14. Generador de cuentos - El programa al iniciar debe presentar un mensaje de saludo, posteriormente comenzará a preguntarle al usuario
 # lo siguiente: el nombre del usuario, edad, lugar, animal, país, comida, color, profesión, parte del cuerpo.
 # La salida del programa debe ser un cuento con la siguiente estructura:
@@ -139,6 +167,7 @@
 # """)
 
 
+# =========================================================================================================================
 # 15. Mensajes secretos - El programa al iniciar debe presentar un saludo y posteriormente solicitar el ingreso de un mensaje.
 # La salida del programa debera mostrar la cadena pero haciendo las siguientes sustituciones:
 # a = 4, e = 3, i = 1, o = 0
