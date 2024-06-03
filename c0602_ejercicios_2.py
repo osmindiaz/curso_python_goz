@@ -217,6 +217,7 @@
 # Programa un generador de cuentos como el del ejercicio tres pero esta vez crea los cuentos
 # de manera aleatorio por medio de listados creados por ti.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# from decimal import *
 # print("")
 # print("="*80)
 # print("")
@@ -225,6 +226,7 @@
 # print("="*80)
 # print("")
 
+# -------------------------------Listas
 # name = ["Alejandro", "Beatriz", "Carlos", "Dolores", "Elena", "Francisco", "Gabriela", "Hernán", "Isabel", "Javier", "Karla", "Luis", "María",
 #        "Natalia", "Óscar", "Patricia", "Quintín", "Raquel", "Santiago", "Teresa", "Ulises", "Valeria", "Wilfredo", "Ximena", "Yolanda", "Zacarías"]
 
@@ -238,9 +240,10 @@
 #         "dentro del ombligo", "bajo la cama", "la rama de un árbol", "dentro de un zapato", "dentro de una maleta", "debajo del sofá", "dentro de un armario", "en un bolsillo", "en la bañera llena de espuma", "dentro de un refrigerador", "una montaña rusa", "un castillo encantado", "una casa del árbol", "una tienda de campaña", "un estadio de fútbol", "una pista de patinaje", "un aeropuerto", "un museo de arte", "un acuario", "un parque de diversiones"]
 
 # animal = ["perro", "gato", "caballo", "vaca", "oveja", "cerdo", "gallina", "pato", "conejo", "pez dorado", "león", "tigre", "elefante", "jirafa", "cebra", "gorila", "chimpancé", "hipopótamo", "rinoceronte", "cocodrilo", "delfín", "ballena", "tiburón", "pulpo", "medusa", "caballito de mar", "estrella de mar",
-# "morsa", "foca", "pingüino", "ornitorrinco", "perezoso", "armadillo", "narval", "axolotl", "dragón de Komodo", "quokka", "okapi", "australiano casuario", "pangolín", "lémur", "suricato", "mono tití", "canguro", "koala", "gallina de guinea", "mapache", "zarigüeya", "tarsier", "ratón espinoso"]
+#          "morsa", "foca", "pingüino", "ornitorrinco", "perezoso", "armadillo", "narval", "axolotl", "dragón de Komodo", "quokka", "okapi", "australiano casuario", "pangolín", "lémur", "suricato", "mono tití", "canguro", "koala", "gallina de guinea", "mapache", "zarigüeya", "tarsier", "ratón espinoso"]
 
-# food = ["pizza", "hamburguesa", "tacos", "sushi", "pasta", "ensalada", "sándwich", "sopa", "pollo asado", "bistec", "arroz con frijoles", "ceviche", "curry", "paella", "empanadas", "lasagna", "quesadilla", "tamales", "guacamole", "panqueques", "papas fritas", "nachos", "palomitas de maíz", "pretzels", "cacahuates", "chips de tortilla", "galletas", "donas", "churros", "helado", "tacos de langosta", "pizza de sushi", "hamburguesa vegana", "ensalada de quinoa", "sopa de miso", "arroz frito con piña", "pollo teriyaki", "ceviche de mango", "pasta al pesto", "chocolate caliente con chile", "gelatina de pescado", "pizza con helado", "hamburguesa de gominolas", "sándwich de espaguetis", "palomitas con salsa de soya", "sopa de chicle", "tacos de gomitas", "ensalada de caramelos", "pasta con chocolate", "fruta en escabeche"]
+# food = ["pizza", "hamburguesa", "tacos", "sushi", "pasta", "ensalada", "sándwich", "sopa", "pollo asado", "bistec", "arroz con frijoles", "ceviche", "curry", "paella", "empanadas", "lasagna", "quesadilla", "tamales", "guacamole", "panqueques", "papas fritas", "nachos", "palomitas de maíz", "pretzels", "cacahuates", "chips de tortilla", "galletas", "donas", "churros", "helado", "tacos de langosta", "pizza de sushi",
+#        "hamburguesa vegana", "ensalada de quinoa", "sopa de miso", "arroz frito con piña", "pollo teriyaki", "ceviche de mango", "pasta al pesto", "chocolate caliente con chile", "gelatina de pescado", "pizza con helado", "hamburguesa de gominolas", "sándwich de espaguetis", "palomitas con salsa de soya", "sopa de chicle", "tacos de gomitas", "ensalada de caramelos", "pasta con chocolate", "fruta en escabeche"]
 
 # profession = ["doctor", "ingeniero", "abogado", "maestro", "enfermero", "arquitecto", "policía", "bombero", "contable", "dentista", "veterinario", "electricista", "plomero", "carpintero", "piloto", "chef", "diseñador gráfico", "programador", "psicólogo", "científico", "biólogo marino", "astronauta", "fotógrafo", "escritor", "actor", "catador de helados derretidos", "organizador de desfiles de patos", "diseñador de sombreros para mascotas", "experto en selfies", "probador de camas elásticas", "entrenador de caracoles", "crítico de música de ascensor",
 #              "especialista en siestas", "inventor de palabras nuevas", "pintor de nubes", "guía turístico de sueños", "coleccionista de rayos de sol", "decorador de iglús", "sommelier de refrescos", "cazador de arcoíris", "mago de burbujas", "compositor de silencios", "consultor de moda para robots", "arquitecto de castillos de arena", "director de orquesta de grillos", "constructor de puentes arcoíris", "editor de historias de fantasmas", "explorador de planetas imaginarios", "fotógrafo de sombras", "cazador de estrellas fugaces"]
@@ -251,7 +254,7 @@
 # color = ["rojo", "azul", "verde", "amarillo", "naranja", "morado", "rosa", "marrón", "negro", "blanco", "gris", "turquesa",
 #         "lila", "fucsia", "dorado", "plateado", "vino", "lavanda", "cian", "magenta", "beige", "ocre", "salmón", "coral", "esmeralda"]
 
-# Conjuntos
+# -------------------------------Conjuntos
 # name = set(name)
 # age = set(age)
 # country = set(country)
@@ -262,7 +265,7 @@
 # bodypart = set(bodypart)
 # color = set(color)
 
-# Listas
+# -------------------------------Listas
 # name = list(name)
 # age = list(age)
 # country = list(country)
@@ -278,7 +281,7 @@
 # visitar este lejano lugar en el que pudo comer {food[-1]}. Lamentablemente terminó visitando
 # al doctor ya que su {bodypart[-1]} se hinchó y se puso de color {color[-1]} por estar jugando
 # con un/una {animal[-1]} que casualmente encontró en {place[-1]}
-#                                                                                [fin..]
+#                                                                               [fin..]
 # """)
 
 
@@ -326,6 +329,47 @@
 # aleatoria de una lista llena de preguntas (creada por usted). La salida en pantalla será el listado de
 # preguntas.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# print("")
+# print("="*80)
+# print("")
+# print("Bienvenido(A) al la encuesta de satisfaccion al cliente de \'Pizza Python\'")
+# print("")
+# print("="*80)
+# print("")
+# qty = int(input("Cuantas preguntas podras contestar, Max 28: "))
+
+# questions = [
+#    '¿Con qué frecuencia ordenas pizzas de nuestra compañía?',
+#    '¿Cómo evaluas la facilidad de uso de nuestro sitio web o aplicación móvil para realizar pedidos?',
+#    '¿Cuánto tiempo suele tardar en llegar tu pedido?',
+#    '¿Estás satisfecho con el tiempo de entrega de tu pedido?',
+#    '¿La pizza llegó caliente y en buenas condiciones?',
+#    '¿Cómo calificas la calidad de nuestras pizzas?',
+#    '¿Qué tan variado te parece nuestro menú?',
+#    '¿Encuentras satisfactorias nuestras opciones de personalización de pizzas?',
+#    '¿Cómo calificas la relación calidad-precio de nuestras pizzas?',
+#    '¿Cómo evalúas la atención al cliente proporcionada por nuestro personal?',
+#    '¿Has tenido algún problema con tu pedido en los últimos seis meses?',
+#    '¿Qué tan satisfecho estás con las promociones y ofertas que ofrecemos?',
+#    '¿Qué tan fácil es para ti encontrar información sobre nuestras promociones y ofertas?',
+#    '¿Qué tan probable es que recomiendes nuestras pizzas a amigos o familiares?',
+#    '¿Cómo calificarías la limpieza y presentación de nuestras tiendas?',
+#    '¿Qué tan satisfecho estás con la variedad de opciones de bebidas disponibles?',
+#    '¿Qué tan satisfecho estás con la variedad de opciones de postres disponibles?',
+#    '¿Qué tan satisfecho estás con la opción de seguimiento de pedidos en tiempo real?',
+#    '¿Qué tan satisfecho estás con el empaque de nuestras pizzas?',
+#    '¿Qué tan satisfecho estás con la opción de pago en línea?',
+#    '¿Qué tan fácil es para ti encontrar información sobre nuestros ingredientes y alérgenos?',
+#    '¿Cómo calificas la amabilidad y cortesía de nuestros repartidores?',
+#    '¿Qué tan satisfecho estás con la opción de pedidos anticipados?',
+#    '¿Has tenido alguna vez una experiencia negativa con nuestro servicio de entrega?',
+#    '¿Qué tan satisfecho estás con la calidad y frescura de nuestros ingredientes?',
+#    '¿Qué tan satisfecho estás con el tamaño de las porciones de nuestras pizzas?',
+#    '¿Qué tan satisfecho estás con la opción de recogida en tienda?',
+#    '¿Tienes algún comentario o sugerencia adicional para mejorar nuestro servicio?'
+# ]
+# questions = set(questions)
+# questions = list(questions)
 
 
 # ===================================================================================================================================================================
@@ -334,6 +378,14 @@
 # mensaje que debe cifrar. El programa invertira el orden de todas las palabras del mensaje y presentará
 # el resultado en pantalla
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# print("")
+# print("="*80)
+# print("")
+# print('Este programa te ayudara de la manera mas chafa a \"Cifrar\" un mensaje v1')
+# print("")
+# print("="*80)
+# print("")
+# message = input('Ingresa el mensaje que quieres \"Cifrar\": ')
 
 
 # ===================================================================================================================================================================
@@ -342,6 +394,19 @@
 # mensaje que debe cifrar. El programa invertira el orden de todas las palabras y letras de la palabra del
 # mensaje y presentará el resultado en pantalla.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# print("")
+# print("="*80)
+# print("")
+# print('Este programa te ayudara de la manera mas chafa a \"Cifrar\" un mensaje v2')
+# print("")
+# print("="*80)
+# print("")
+# message = input('Ingresa el mensaje que quieres \"Cifrar\": ')
+# print("")
+# print(f'Este es tu mensaje \"Cifrado\": {message[::-1]}')
+# print("")
+# print("-"*80)
+# print("")
 
 
 # ===================================================================================================================================================================
@@ -350,6 +415,45 @@
 # que cada comensal debe. Al final pregunta cuanto se quiere dejar de propina. Se debe mostrar en
 # pantalla toda la información.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# from decimal import *
+
+# print("")
+# print("="*80)
+# print("")
+# print('Calculadora \"No se hagan patos\" - para la cuenta')
+# print("")
+# print("="*80)
+# print("")
+# guests = int(input("Ingresa la cantidad de comensales: "))
+# check = Decimal(input("Ingresa la cantidad de la cuenta: "))
+# tip08 = Decimal(check)*Decimal(.08)
+# tip10 = Decimal(check)*Decimal(.10)
+# tip15 = Decimal(check)*Decimal(.15)
+# tip20 = Decimal(check)*Decimal(.20)
+# print("")
+# print("La propina sugerida es de: ")
+# print(f"Los atendieron terriblemente y los insultaron y hasta sospenchan que les escupieron en el plato :( \t-\t 0%\t-\t$0.00")
+# print(
+#    f"Los trataron regular, no asi que digas, ah que bruto como nos les importamos a estos cuates        \t-\t 8%\t-\t${tip08:,.2f}")
+# print(
+#    f"El servicio estuvo bien, trajeron la comida a tiempo, se porto amable el mesero o mesera           \t-\t10%\t-\t${tip10:,.2f}")
+# print(
+#    f"El servicio estuvo super, todo estaba muy rico y muy rapido, muy buen servicio la verdad           \t-\t15%\t-\t${tip15:,.2f}")
+# print(
+#    f"Nos trataron como reyes, la comida deliciosa, el lugar impecable y aparte la mesera guapisima      \t-\t20%\t-\t${tip20:,.2f}")
+# print("")
+# tip = Decimal(input("Cuanto van a dejar de propina?: "))
+# total = (Decimal(check)+Decimal(tip))
+# split = (Decimal(total)/Decimal(guests))
+# print("")
+# print("-"*80)
+# print("")
+# print(f"El total para su consumo de: ${
+#      check:,.2f} + ${tip:,.2f} es de: ${total:,.2f}")
+# print("")
+# print(f"Dividido entre {guests} comensales, les toca de ${
+#      split:,.2f} por persona.")
+# print("")
 
 
 # ===================================================================================================================================================================
@@ -357,27 +461,344 @@
 # El programa pregunta dos números y el resultado por renglón son el calculo de sumar, restar, divir,
 # multiplicar entre esos dos números.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# from decimal import *
+# print("")
+# print("="*80)
+# print("")
+# print('Calculadora Simple')
+# print("")
+# print("="*80)
+# print("")
+# number01 = Decimal(input("Ingresa un Numero: "))
+# number02 = Decimal(input("Ingresa Otro Numero: "))
+# print("")
+# print(f"Suma\t\t-\t{number01} + {number02} = {number01+number02:,.2f}")
+# print(f"Resta\t\t-\t{number01} - {number02} = {number01-number02:,.2f}")
+# print(f"Multiplicacion\t-\t{number01} x {number02} = {number01*number02:,.2f}")
+# print(f"Division\t-\t{number01} / {number02} = {number01/number02:,.2f}")
+# print("")
+# print("-"*80)
 
 
 # ===================================================================================================================================================================
 # 12. Calculadora de retiro
 # El programa pregunta que edad tienes y a que edad te quieres retirar, al final el programa
-# debe presentar: Aún te faltan n años para retirarte. Estamos en 2019 así que te podrás retirar en año
+# debe presentar: Aún te faltan n años para retirarte. Estamos en 2024 así que te podrás retirar en año
 # calculado.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# from datetime import datetime
+# print("")
+# print("="*80)
+# print("")
+# print('Calculadora para el Retiro')
+# print("")
+# print("="*80)
+# print("")
+# now = datetime.now()
+# now = now.year
+# age = int(input("Ingresa tu edad: "))
+# retirement = int(input("A que edad piensas retirarte?: "))
+# print("")
+# print("-"*80)
+# print("")
+# timeleft = retirement-age
+# print(f"Te faltan {timeleft} años para retirarte")
+# print(f"Tu año de retiro será: {now+timeleft}")
+# print("")
+# print("-"*80)
+# print("")
 
 
 # ===================================================================================================================================================================
 # 13. Calculadora de conversión de pesos a dólares, euros, libras y yenes
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# from decimal import *
+# print("")
+# print("="*80)
+# print("")
+# print('CONVERTIDOR DE DIVISAS')
+# print("")
+# print("="*80)
+# mxn_rate = 1
+# usd_rate = 16.97
+# eur_rate = 18.40
+# gbp_rate = 21.61
+# jpy_rate = 0.11
+# -----------------------------------------------------------------------------------------------------------------------Data Input----
+# print("CODIGOS DE MONEDA \n\t - Para pesos: MXN\n\t - Para Dolares: USD\n\t - Para Euros: EUR\n\t - Para Libras: GBP\n\t - Para Yenes: JPY\n")
+# ammount2convert = Decimal(input("\t\t\tIngresa el monto a convertir: "))
+# from_currency = input("\t\t\tSelecciona el codigo de moneda inicial: ")
+# from_currency = from_currency.upper()
+# to_currency = input("\t\t\tIngresa el codigo de moneda objetivo: ")
+# to_currency = to_currency.upper()
+# divider = ("-"*80)
+# --------------------------------------------------------------------------------------------------------------------Convert From MXN----
+# if from_currency == "MXN":
+#    if to_currency == "MXN":
+#        converted = Decimal(ammount2convert)/Decimal(mxn_rate)
+#        print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#              converted:,.4f} {to_currency}\n\n{divider}")
+#    else:
+#        if to_currency == "USD":
+#            converted = Decimal(ammount2convert)/Decimal(usd_rate)
+#            print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                converted:,.4f} {to_currency}\n\n{divider}")
+#        else:
+#            if to_currency == "EUR":
+#                converted = Decimal(ammount2convert)/Decimal(eur_rate)
+#                print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                    converted:,.4f} {to_currency}\n\n{divider}")
+#            else:
+# if to_currency == "GBP":
+#                    converted = Decimal(ammount2convert)/Decimal(gbp_rate)
+#                    print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                        converted:,.4f} {to_currency}\n\n{divider}")
+#                else:
+#                    if to_currency == "JPY":
+#                        converted = Decimal(ammount2convert)/Decimal(jpy_rate)
+#                        print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                            converted:,.4f} {to_currency}\n\n{divider}")
+#                    else:
+#                        print(
+#                            f"\n\t\t\tVuelve a ejecutar el programa, el codigo de moneda destino: \'{to_currency}\' que ingresaste no es soportado\n")
+# else:
+#    if from_currency == "USD":
+#        if to_currency == "MXN":
+#            converted = Decimal(ammount2convert)*Decimal(usd_rate)
+#            print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                  converted:,.4f} {to_currency}\n\n{divider}")
+#        else:
+#            if to_currency == "USD":
+#                converted = ammount2convert
+#                print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                    converted:,.4f} {to_currency}\n\n{divider}")
+#            else:
+#                if to_currency == "EUR":
+#                    convert_to_mxn = Decimal(ammount2convert)*Decimal(usd_rate)
+#                    converted = Decimal(convert_to_mxn)/Decimal(eur_rate)
+#                    print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                        converted:,.4f} {to_currency}\n\n{divider}")
+#                else:
+#                    if to_currency == "GBP":
+#                        convert_to_mxn = Decimal(
+#                            ammount2convert)*Decimal(usd_rate)
+#                        converted = Decimal(convert_to_mxn)/Decimal(gbp_rate)
+#                        print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                            converted:,.4f} {to_currency}\n\n{divider}")
+#                    else:
+#                        if to_currency == "JPY":
+#                            convert_to_mxn = Decimal(
+#                                ammount2convert)*Decimal(usd_rate)
+#                            converted = Decimal(
+#                                convert_to_mxn)/Decimal(jpy_rate)
+#                            print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                  converted:,.4f} {to_currency}\n\n{divider}")
+#                        else:
+#                            print(
+#                                f"\n\t\t\tVuelve a ejecutar el programa, el codigo de moneda destino: \'{to_currency}\' que ingresaste no es soportado\n")
+#    else:
+#        if from_currency == "EUR":
+#            if to_currency == "MXN":
+#                converted = Decimal(ammount2convert)*Decimal(eur_rate)
+#                print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                      converted:,.4f} {to_currency}\n\n{divider}")
+#            else:
+#                if to_currency == "USD":
+#                    convert_to_mxn = Decimal(ammount2convert)*Decimal(eur_rate)
+#                    converted = Decimal(convert_to_mxn)/Decimal(usd_rate)
+#                    print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                        converted:,.4f} {to_currency}\n\n{divider}")
+#                else:
+#                    if to_currency == "EUR":
+#                        convert_to_mxn = Decimal(
+#                            ammount2convert)*Decimal(eur_rate)
+#                        converted = Decimal(convert_to_mxn)/Decimal(eur_rate)
+#                        print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                            converted:,.4f} {to_currency}\n\n{divider}")
+#                    else:
+#                        if to_currency == "GBP":
+#                            convert_to_mxn = Decimal(
+#                                ammount2convert)*Decimal(eur_rate)
+#                            converted = Decimal(
+#                                convert_to_mxn)/Decimal(gbp_rate)
+#                            print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                converted:,.4f} {to_currency}\n\n{divider}")
+#                        else:
+#                            if to_currency == "JPY":
+#                                convert_to_mxn = Decimal(
+#                                    ammount2convert)*Decimal(eur_rate)
+#                                converted = Decimal(
+#                                    convert_to_mxn)/Decimal(jpy_rate)
+#                                print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                    converted:,.4f} {to_currency}\n\n{divider}")
+#                            else:
+#                                print(
+#                                    f"\n\t\t\tVuelve a ejecutar el programa, el codigo de moneda destino: \'{to_currency}\' que ingresaste no es soportado\n")
+#        else:
+#            # -------------------------------------------------------------------------------------------------------------------------------------------
+#            if from_currency == "GBP":
+#                if to_currency == "MXN":
+#                    converted = Decimal(ammount2convert)*Decimal(gbp_rate)
+#                    print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                        converted:,.4f} {to_currency}\n\n{divider}")
+#                else:
+#                    if to_currency == "USD":
+#                        convert_to_mxn = Decimal(
+#                            ammount2convert)*Decimal(gbp_rate)
+#                        converted = Decimal(
+#                            convert_to_mxn)/Decimal(usd_rate)
+#                        print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                            converted:,.4f} {to_currency}\n\n{divider}")
+#                    else:
+#                        if to_currency == "EUR":
+#                            convert_to_mxn = Decimal(
+#                                ammount2convert)*Decimal(gbp_rate)
+#                            converted = Decimal(
+#                                convert_to_mxn)/Decimal(eur_rate)
+#                            print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                converted:,.4f} {to_currency}\n\n{divider}")
+#                        else:
+#                            if to_currency == "GBP":
+#                                convert_to_mxn = Decimal(
+#                                    ammount2convert)*Decimal(gbp_rate)
+#                                converted = Decimal(
+#                                    convert_to_mxn)/Decimal(gbp_rate)
+#                                print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                    converted:,.4f} {to_currency}\n\n{divider}")
+#                            else:
+#                                if to_currency == "JPY":
+#                                    convert_to_mxn = Decimal(
+#                                        ammount2convert)*Decimal(gbp_rate)
+#                                    converted = Decimal(
+#                                        convert_to_mxn)/Decimal(jpy_rate)
+#                                   print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                       converted:,.4f} {to_currency}\n\n{divider}")
+#                                else:
+#                                    print(
+#                                        f"\n\t\t\tVuelve a ejecutar el programa, el codigo de moneda destino: \'{to_currency}\' que ingresaste no es soportado\n")
+#            else:
+#                # -------------------------------------------------------------------------------------------------------------------------------------------
+#                if from_currency == "JPY":
+#                    if to_currency == "MXN":
+#                        converted = Decimal(ammount2convert)*Decimal(jpy_rate)
+#                        print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                            converted:,.4f} {to_currency}\n\n{divider}")
+#                    else:
+#                        if to_currency == "USD":
+#                            convert_to_mxn = Decimal(
+#                                ammount2convert)*Decimal(jpy_rate)
+#                            converted = Decimal(
+#                                convert_to_mxn)/Decimal(usd_rate)
+#                            print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                converted:,.4f} {to_currency}\n\n{divider}")
+#                        else:
+#                            if to_currency == "EUR":
+#                                convert_to_mxn = Decimal(
+#                                    ammount2convert)*Decimal(jpy_rate)
+#                                converted = Decimal(
+#                                    convert_to_mxn)/Decimal(eur_rate)
+# print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                    converted:,.4f} {to_currency}\n\n{divider}")
+#                            else:
+#                                if to_currency == "GBP":
+#                                    convert_to_mxn = Decimal(
+#                                        ammount2convert)*Decimal(jpy_rate)
+#                                    converted = Decimal(
+#                                        convert_to_mxn)/Decimal(gbp_rate)
+#                                    print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                        converted:,.4f} {to_currency}\n\n{divider}")
+#                                else:
+#                                    if to_currency == "JPY":
+#                                        convert_to_mxn = Decimal(
+#                                            ammount2convert)*Decimal(jpy_rate)
+#                                        converted = Decimal(
+#                                            convert_to_mxn)/Decimal(jpy_rate)
+#                                        print(f"\n\t\t\t${ammount2convert:,.4f} {from_currency} = ${
+#                                            converted:,.4f} {to_currency}\n\n{divider}")
+#                                    else:
+#                                        print(
+#                                            f"\n\t\t\tVuelve a ejecutar el programa, el codigo de moneda destino: \'{to_currency}\' que ingresaste no es soportado\n")
 
 
 # ===================================================================================================================================================================
 # 14. Calculadora de conversión de grados farenheit a celcius.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# from decimal import *
+# print("")
+# print("="*80)
+# print("")
+# print('Calculadora de conversion de temperaturas')
+# print("")
+# print("="*80)
+# degrees = Decimal(input("Por favor ingresa la temperatura: "))
+# from_unit = input("\t\tIngresa la unidad de Origen (\'F\' o \'C\'): ")
+# to_unit = input("\t\tIngresa la unidad de Destino (\'F\' o \'C\'): ")
+# from_unit = from_unit.lower()
+# to_unit = to_unit.lower()
 
+# if from_unit == "f":
+#    if to_unit == "c":
+#        result = (Decimal(degrees)-Decimal(32))*Decimal(.5556)
+#        print(f"\n\t\t{degrees}°{from_unit} = {result:,.2f}°{to_unit}\n")
+#    else:
+#        if to_unit == 'f':
+#            result = degrees
+#            print(f"\n\t\t{degrees}°{from_unit} = {result:,.2f}°{to_unit}\n")
+#        else:
+#            print(f"\n\t\tla unidad destino: \'{to_unit}\' no existe \n")
+# elif from_unit == "c":
+#    if to_unit == "f":
+#        result = (Decimal(degrees)*Decimal(1.8))+Decimal(32)
+#        print(f"\n\t\t{degrees}°{from_unit} = {result:,.2f}°{to_unit}\n")
+#    else:
+#        if to_unit == 'c':
+#            result = degrees
+#            print(f"\n\t\t{degrees}°{from_unit} = {result:,.2f}°{to_unit}\n")
+#        else:
+#            print(f"\n\t\tla unidad destino: \'{to_unit}\' no existe \n")
+# else:
+#    print(f"\n\t\tla unidad origen: \'{from_unit}\' no existe \n")
 
 # ===================================================================================================================================================================
 # 15. Generador de exámenes con opción múltiple
 # Tanto el orden de las preguntas como sus respuestas deben ser aleatorias.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# print("="*150)
+# print('\nBienvenidos al examen mas facil del mundo\n')
+# print("="*150)
+# questions = [
+#    '¿Qué tipo de animal es Marty?',
+#    '¿Dónde vivían los animales antes de llegar a Madagascar?',
+#    '¿Cómo se llama la jirafa en "Madagascar"?',
+#    '¿Qué animal es Gloria?',
+#    '¿Quién es el líder de los pingüinos?',
+#    '¿Cuál es el nombre del rey lémur en Madagascar?',
+#    '¿Qué canción popular canta el rey lémur y los demás animales?',
+#    '¿Qué animal es Alex?',
+#    '¿Qué tipo de problemas de salud tiene Melman?',
+#    '¿Quién es el mejor amigo de Marty?',
+#    '¿Por qué los animales terminan en Madagascar?'
+# ]
+# answers = [
+#    'Alex',
+#    'Cebra',
+# 'En un zoológico en Nueva York',
+#    'Melman',
+#    'Hipopótamo',
+#    'Skipper',
+#    'King Julian',
+#    'I Like to Move It',
+#    'León',
+#    'Hipocondría',
+#    'Porque su barco se hunde']
+
+# questions = set(questions)
+# answers = set(answers)
+# questions = list(questions)
+# answers = list(answers)
+
+
+# print("{:<75} {:<75}".format("Questions", "Answers"))
+# print("-" * 150)
+# for question, answer in zip(questions, answers):
+#    print("{:<75} {:<75}".format(question, answer))
