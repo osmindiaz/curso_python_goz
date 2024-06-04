@@ -2,19 +2,24 @@
 # 13. Calculadora de conversión de pesos a dólares, euros, libras y yenes
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 from decimal import *
+from tabulate import tabulate
 print("")
-print("="*80)
 print("")
-print('CONVERTIDOR DE DIVISAS')
+print('\tCONVERTIDOR DE DIVISAS')
 print("")
-print("="*80)
-mxn_rate = 1
-usd_rate = 16.97
-eur_rate = 18.40
-gbp_rate = 21.61
-jpy_rate = 0.11
+headers = ["Moneda", "Codigo", "Tipo de Cambio"]
+currencies = ["Peso", "Dolar", "Euro", "Libra", "Yen"]
+codes = ["MXN", "USD", "EUR", "GBP", "JPY"]
+rates = [1, 16.97, 18.40, 21.61, 0.11]
+data = [headers] + list(zip(currencies, codes, rates))
+print(tabulate(data, headers="firstrow", tablefmt="fancy_grid"))
+print("")
+mxn_rate = rates[0]
+usd_rate = rates[1]
+eur_rate = rates[2]
+gbp_rate = rates[3]
+jpy_rate = rates[4]
 # -----------------------------------------------------------------------------------------------------------------------Data Input----
-print("CODIGOS DE MONEDA \n\t - Para pesos: MXN\n\t - Para Dolares: USD\n\t - Para Euros: EUR\n\t - Para Libras: GBP\n\t - Para Yenes: JPY\n")
 ammount2convert = Decimal(input("\t\t\tIngresa el monto a convertir: "))
 from_currency = input("\t\t\tSelecciona el codigo de moneda inicial: ")
 from_currency = from_currency.upper()
