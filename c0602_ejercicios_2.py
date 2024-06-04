@@ -178,7 +178,7 @@
 #    print("")
 #    print("-"*80)
 #    print(f"Desde ahora seras conocido como: {
-#          name} \"{rudos[-1]}\" {lastname}")
+#          name} \"{rudos}\" {lastname}")
 #    print("-"*80)
 #    print("")
 #    print("")
@@ -188,7 +188,7 @@
 #        print("")
 #        print("-"*80)
 #        print(f"Desde ahora seras conocida como: {
-#              name} \"{rudas[-1]}\" {lastname}")
+#              name} \"{rudas}\" {lastname}")
 #        print("-"*80)
 #        print("")
 #        print("")
@@ -198,7 +198,7 @@
 #            print("")
 #            print("-"*80)
 #            print(f"Desde ahora te llamarán: {
-#                  name} \"{otros[-1]}\" {lastname}")
+#                  name} \"{otros}\" {lastname}")
 #            print("-"*80)
 #            print("")
 #            print("")
@@ -218,6 +218,8 @@
 # de manera aleatorio por medio de listados creados por ti.
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # from decimal import *
+# import random
+
 # print("")
 # print("="*80)
 # print("")
@@ -254,34 +256,23 @@
 # color = ["rojo", "azul", "verde", "amarillo", "naranja", "morado", "rosa", "marrón", "negro", "blanco", "gris", "turquesa",
 #         "lila", "fucsia", "dorado", "plateado", "vino", "lavanda", "cian", "magenta", "beige", "ocre", "salmón", "coral", "esmeralda"]
 
-# -------------------------------Conjuntos
-# name = set(name)
-# age = set(age)
-# country = set(country)
-# place = set(place)
-# animal = set(animal)
-# food = set(food)
-# profession = set(profession)
-# bodypart = set(bodypart)
-# color = set(color)
-
 # -------------------------------Listas
-# name = list(name)
-# age = list(age)
-# country = list(country)
-# place = list(place)
-# animal = list(animal)
-# food = list(food)
-# profession = list(profession)
-# bodypart = list(bodypart)
-# color = list(color)
+# name = name[random.randint(0, len(name) - 1)]
+# age = age[random.randint(0, len(age) - 1)]
+# country = country[random.randint(0, len(country) - 1)]
+# place = place[random.randint(0, len(place) - 1)]
+# animal = animal[random.randint(0, len(animal) - 1)]
+# food = food[random.randint(0, len(food) - 1)]
+# profession = profession[random.randint(0, len(profession) - 1)]
+# bodypart = bodypart[random.randint(0, len(bodypart) - 1)]
+# color = color[random.randint(0, len(color) - 1)]
 
 # print(f"""
-# A sus {age[-1]} años {name[-1]} se fue de viaje a {country[-1]}. Su trabajo de {profession[-1]} le permitió
-# visitar este lejano lugar en el que pudo comer {food[-1]}. Lamentablemente terminó visitando
-# al doctor ya que su {bodypart[-1]} se hinchó y se puso de color {color[-1]} por estar jugando
-# con un/una {animal[-1]} que casualmente encontró en {place[-1]}
-#                                                                               [fin..]
+# A sus {age} años {name} se fue de viaje a {country}. Su trabajo de {profession} le permitió
+# visitar este lejano lugar en el que pudo comer {food}. Lamentablemente terminó visitando
+# al doctor ya que su {bodypart} se hinchó y se puso de color {color} por estar jugando
+# con un/una {animal} que casualmente encontró en {place}
+#                                                                             [fin..]
 # """)
 
 
@@ -341,7 +332,7 @@
 # questions = [
 #    '¿Con qué frecuencia ordenas pizzas de nuestra compañía?',
 #    '¿Cómo evaluas la facilidad de uso de nuestro sitio web o aplicación móvil para realizar pedidos?',
-#    '¿Cuánto tiempo suele tardar en llegar tu pedido?',
+# '¿Cuánto tiempo suele tardar en llegar tu pedido?',
 #    '¿Estás satisfecho con el tiempo de entrega de tu pedido?',
 #    '¿La pizza llegó caliente y en buenas condiciones?',
 #    '¿Cómo calificas la calidad de nuestras pizzas?',
@@ -370,7 +361,7 @@
 # ]
 # questions = set(questions)
 # questions = list(questions)
-
+# print(questions[:qty])
 
 # ===================================================================================================================================================================
 # 8. Cifrador chafa chafa
@@ -386,7 +377,11 @@
 # print("="*80)
 # print("")
 # message = input('Ingresa el mensaje que quieres \"Cifrar\": ')
+# message = message.split()
+# message = list(reversed(message))
+# message = " ".join(message)
 
+# print(message)
 
 # ===================================================================================================================================================================
 # 9. Cifrador chafa chafa 2
