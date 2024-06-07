@@ -1,0 +1,5356 @@
+--------------------------------------------------------------------------------
+Username=Correcto / Password=Correcto
+--------------------------------------------------------------------------------
+Codigo del estado de la respuesta:
+200
+
+--------------------------------------------------------------------------------
+
+Contenido de la respuesta:
+{
+
+  "odata.metadata":"https://gccdtapp03.epicorsaas.com/SaaS1037/api/v1/BaqSvc/$metadata","value":[
+
+    {
+
+      "name":"COM-90DaysSubcontShip","url":"COM-90DaysSubcontShip"
+
+    },{
+
+      "name":"COM-CustContacts","url":"COM-CustContacts"
+
+    },{
+
+      "name":"COM-Customer4Dash","url":"COM-Customer4Dash"
+
+    },{
+
+      "name":"COM-CustomerSalesTasks","url":"COM-CustomerSalesTasks"
+
+    },{
+
+      "name":"COM-CustTrackerCRMCalls","url":"COM-CustTrackerCRMCalls"
+
+    },{
+
+      "name":"COM-InvoicesPerCustomer","url":"COM-InvoicesPerCustomer"
+
+    },{
+
+      "name":"COM-JobStatusMain","url":"COM-JobStatusMain"
+
+    },{
+
+      "name":"COM-OrdersPerCustomer","url":"COM-OrdersPerCustomer"
+
+    },{
+
+      "name":"COM-PoRelease","url":"COM-PoRelease"
+
+    },{
+
+      "name":"COM-ShipmentsPerCustomer","url":"COM-ShipmentsPerCustomer"
+
+    },{
+
+      "name":"COM-ShipOpenRel","url":"COM-ShipOpenRel"
+
+    },{
+
+      "name":"COM-Shiptos","url":"COM-Shiptos"
+
+    },{
+
+      "name":"COM-SubcontractPOs","url":"COM-SubcontractPOs"
+
+    },{
+
+      "name":"EMF-CC-BinVal","url":"EMF-CC-BinVal"
+
+    },{
+
+      "name":"EMF-CC-LotVal","url":"EMF-CC-LotVal"
+
+    },{
+
+      "name":"EMF-CC-PartVal","url":"EMF-CC-PartVal"
+
+    },{
+
+      "name":"EMF-CC-SerialTagVal","url":"EMF-CC-SerialTagVal"
+
+    },{
+
+      "name":"EMF-CC-SerialVal","url":"EMF-CC-SerialVal"
+
+    },{
+
+      "name":"EMF-CC-UOMs","url":"EMF-CC-UOMs"
+
+    },{
+
+      "name":"EMF-CC-WhseVal","url":"EMF-CC-WhseVal"
+
+    },{
+
+      "name":"EMF-CustMassShip-UOM","url":"EMF-CustMassShip-UOM"
+
+    },{
+
+      "name":"EMF-FindPOUsingPartNum","url":"EMF-FindPOUsingPartNum"
+
+    },{
+
+      "name":"EMF-MySalesOrderHeads","url":"EMF-MySalesOrderHeads"
+
+    },{
+
+      "name":"EMF-PartUOMList","url":"EMF-PartUOMList"
+
+    },{
+
+      "name":"EMF-PO-Open-List","url":"EMF-PO-Open-List"
+
+    },{
+
+      "name":"EMF-RelatedJobQuery","url":"EMF-RelatedJobQuery"
+
+    },{
+
+      "name":"EMF-SalesOrderHeaders","url":"EMF-SalesOrderHeaders"
+
+    },{
+
+      "name":"EMF-TFO-Ship-UOM","url":"EMF-TFO-Ship-UOM"
+
+    },{
+
+      "name":"EPIC03-Department","url":"EPIC03-Department"
+
+    },{
+
+      "name":"EPIC03-DeptLoad","url":"EPIC03-DeptLoad"
+
+    },{
+
+      "name":"EPIC03-ResGroupLoad","url":"EPIC03-ResGroupLoad"
+
+    },{
+
+      "name":"EPIC03-ResGroupLoadDept","url":"EPIC03-ResGroupLoadDept"
+
+    },{
+
+      "name":"EPIC03-ResourceLoad","url":"EPIC03-ResourceLoad"
+
+    },{
+
+      "name":"FSAInventory","url":"FSAInventory"
+
+    },{
+
+      "name":"UBC_BAQ","url":"UBC_BAQ"
+
+    },{
+
+      "name":"UBC_BPM","url":"UBC_BPM"
+
+    },{
+
+      "name":"UBC_Customization","url":"UBC_Customization"
+
+    },{
+
+      "name":"UBC_Dashboards","url":"UBC_Dashboards"
+
+    },{
+
+      "name":"UBC_RptDataDef","url":"UBC_RptDataDef"
+
+    },{
+
+      "name":"UBC_RptStyle","url":"UBC_RptStyle"
+
+    },{
+
+      "name":"UBC-MenuItems","url":"UBC-MenuItems"
+
+    },{
+
+      "name":"zActCostAllocDetails","url":"zActCostAllocDetails"
+
+    },{
+
+      "name":"zActCostAllocGLTrans","url":"zActCostAllocGLTrans"
+
+    },{
+
+      "name":"zActCostAllocReportHeader","url":"zActCostAllocReportHeader"
+
+    },{
+
+      "name":"zActCostAllocSummary","url":"zActCostAllocSummary"
+
+    },{
+
+      "name":"zAPBankingRefTracker","url":"zAPBankingRefTracker"
+
+    },{
+
+      "name":"zAPCheckDtl","url":"zAPCheckDtl"
+
+    },{
+
+      "name":"zAPCheckDtl_NO","url":"zAPCheckDtl_NO"
+
+    },{
+
+      "name":"zAPCheckHead","url":"zAPCheckHead"
+
+    },{
+
+      "name":"zAPInvDtl","url":"zAPInvDtl"
+
+    },{
+
+      "name":"zARBankingRefTracker","url":"zARBankingRefTracker"
+
+    },{
+
+      "name":"zAttribute","url":"zAttribute"
+
+    },{
+
+      "name":"zBankAcctQSearch","url":"zBankAcctQSearch"
+
+    },{
+
+      "name":"zBuyToOrderTracker","url":"zBuyToOrderTracker"
+
+    },{
+
+      "name":"zCashDtl","url":"zCashDtl"
+
+    },{
+
+      "name":"zCashHead","url":"zCashHead"
+
+    },{
+
+      "name":"zContactAttrib","url":"zContactAttrib"
+
+    },{
+
+      "name":"zContactTracker01","url":"zContactTracker01"
+
+    },{
+
+      "name":"zContracts","url":"zContracts"
+
+    },{
+
+      "name":"zCorrectShipByDates","url":"zCorrectShipByDates"
+
+    },{
+
+      "name":"zCreditCardTrans","url":"zCreditCardTrans"
+
+    },{
+
+      "name":"zCRM-ActivityContacts","url":"zCRM-ActivityContacts"
+
+    },{
+
+      "name":"zCRM-Actvities","url":"zCRM-Actvities"
+
+    },{
+
+      "name":"zCRM-Attachments","url":"zCRM-Attachments"
+
+    },{
+
+      "name":"zCRM-Attributes","url":"zCRM-Attributes"
+
+    },{
+
+      "name":"zCRM-Calls","url":"zCRM-Calls"
+
+    },{
+
+      "name":"zCRM-CallTypes","url":"zCRM-CallTypes"
+
+    },{
+
+      "name":"zCRM-Campaigns","url":"zCRM-Campaigns"
+
+    },{
+
+      "name":"zCRM-CaseOtherContacts","url":"zCRM-CaseOtherContacts"
+
+    },{
+
+      "name":"zCRM-Cases","url":"zCRM-Cases"
+
+    },{
+
+      "name":"zCRM-Companies","url":"zCRM-Companies"
+
+    },{
+
+      "name":"zCRM-CompanyConfig","url":"zCRM-CompanyConfig"
+
+    },{
+
+      "name":"zCRM-Competitors","url":"zCRM-Competitors"
+
+    },{
+
+      "name":"zCRM-Country","url":"zCRM-Country"
+
+    },{
+
+      "name":"zCRM-Currency","url":"zCRM-Currency"
+
+    },{
+
+      "name":"zCRM-CustAttr","url":"zCRM-CustAttr"
+
+    },{
+
+      "name":"zCRM-CustCnt","url":"zCRM-CustCnt"
+
+    },{
+
+      "name":"zCRM-CustCntList","url":"zCRM-CustCntList"
+
+    },{
+
+      "name":"zCRM-CustFinBTBacklog","url":"zCRM-CustFinBTBacklog"
+
+    },{
+
+      "name":"zCRM-CustFinBTBookings","url":"zCRM-CustFinBTBookings"
+
+    },{
+
+      "name":"zCRM-CustFinBTInvoiced","url":"zCRM-CustFinBTInvoiced"
+
+    },{
+
+      "name":"zCRM-CustFinBTProjBill","url":"zCRM-CustFinBTProjBill"
+
+    },{
+
+      "name":"zCRM-CustFinBTQuotPip","url":"zCRM-CustFinBTQuotPip"
+
+    },{
+
+      "name":"zCRM-CustFinMain","url":"zCRM-CustFinMain"
+
+    },{
+
+      "name":"zCRM-CustFinMainTempFix","url":"zCRM-CustFinMainTempFix"
+
+    },{
+
+      "name":"zCRM-CustFinSTBacklog","url":"zCRM-CustFinSTBacklog"
+
+    },{
+
+      "name":"zCRM-CustFinSTBookings","url":"zCRM-CustFinSTBookings"
+
+    },{
+
+      "name":"zCRM-CustFinSTInvoiced","url":"zCRM-CustFinSTInvoiced"
+
+    },{
+
+      "name":"zCRM-CustFinSTProjBill","url":"zCRM-CustFinSTProjBill"
+
+    },{
+
+      "name":"zCRM-CustFinSTQuotPip","url":"zCRM-CustFinSTQuotPip"
+
+    },{
+
+      "name":"zCRM-CustGrup","url":"zCRM-CustGrup"
+
+    },{
+
+      "name":"zCRM-CustIC","url":"zCRM-CustIC"
+
+    },{
+
+      "name":"zCRM-CustomerActions","url":"zCRM-CustomerActions"
+
+    },{
+
+      "name":"zCRM-Customers","url":"zCRM-Customers"
+
+    },{
+
+      "name":"zCRM-FiscalYear","url":"zCRM-FiscalYear"
+
+    },{
+
+      "name":"zCRM-GlobalSalesReps","url":"zCRM-GlobalSalesReps"
+
+    },{
+
+      "name":"zCRM-HDContact","url":"zCRM-HDContact"
+
+    },{
+
+      "name":"zCRM-IndustryClassCodes","url":"zCRM-IndustryClassCodes"
+
+    },{
+
+      "name":"zCRM-IndustryClassTypes","url":"zCRM-IndustryClassTypes"
+
+    },{
+
+      "name":"zCRM-InvcDtl","url":"zCRM-InvcDtl"
+
+    },{
+
+      "name":"zCRM-InvcHed","url":"zCRM-InvcHed"
+
+    },{
+
+      "name":"zCRM-Inventory","url":"zCRM-Inventory"
+
+    },{
+
+      "name":"zCRM-MemoCat","url":"zCRM-MemoCat"
+
+    },{
+
+      "name":"zCRM-Memos","url":"zCRM-Memos"
+
+    },{
+
+      "name":"zCRM-MktgEvnt","url":"zCRM-MktgEvnt"
+
+    },{
+
+      "name":"zCRM-OrderDtl","url":"zCRM-OrderDtl"
+
+    },{
+
+      "name":"zCRM-OrderHed","url":"zCRM-OrderHed"
+
+    },{
+
+      "name":"zCRM-OrderRel","url":"zCRM-OrderRel"
+
+    },{
+
+      "name":"zCRM-PartBins","url":"zCRM-PartBins"
+
+    },{
+
+      "name":"zCRM-Parts","url":"zCRM-Parts"
+
+    },{
+
+      "name":"zCRM-PartWhseBin","url":"zCRM-PartWhseBin"
+
+    },{
+
+      "name":"zCRM-PerCon","url":"zCRM-PerCon"
+
+    },{
+
+      "name":"zCRM-PerConActions","url":"zCRM-PerConActions"
+
+    },{
+
+      "name":"zCRM-PerConLnk","url":"zCRM-PerConLnk"
+
+    },{
+
+      "name":"zCRM-ProductGroups","url":"zCRM-ProductGroups"
+
+    },{
+
+      "name":"zCRM-ProjectPhases","url":"zCRM-ProjectPhases"
+
+    },{
+
+      "name":"zCRM-ProjectQuotes","url":"zCRM-ProjectQuotes"
+
+    },{
+
+      "name":"zCRM-Projects","url":"zCRM-Projects"
+
+    },{
+
+      "name":"zCRM-ProjFinancial","url":"zCRM-ProjFinancial"
+
+    },{
+
+      "name":"zCRM-ProjMilestone","url":"zCRM-ProjMilestone"
+
+    },{
+
+      "name":"zCRM-Publications","url":"zCRM-Publications"
+
+    },{
+
+      "name":"zCRM-QuoteCnt","url":"zCRM-QuoteCnt"
+
+    },{
+
+      "name":"zCRM-QuoteCom","url":"zCRM-QuoteCom"
+
+    },{
+
+      "name":"zCRM-QuoteDtl","url":"zCRM-QuoteDtl"
+
+    },{
+
+      "name":"zCRM-QuoteHed","url":"zCRM-QuoteHed"
+
+    },{
+
+      "name":"zCRM-QuoteSalesRep","url":"zCRM-QuoteSalesRep"
+
+    },{
+
+      "name":"zCRM-ReasonCodes","url":"zCRM-ReasonCodes"
+
+    },{
+
+      "name":"zCRM-RMADtl","url":"zCRM-RMADtl"
+
+    },{
+
+      "name":"zCRM-RMAHed","url":"zCRM-RMAHed"
+
+    },{
+
+      "name":"zCRM-RMAReceipts","url":"zCRM-RMAReceipts"
+
+    },{
+
+      "name":"zCRM-SalesCats","url":"zCRM-SalesCats"
+
+    },{
+
+      "name":"zCRM-SalesRep","url":"zCRM-SalesRep"
+
+    },{
+
+      "name":"zCRM-SalesTer","url":"zCRM-SalesTer"
+
+    },{
+
+      "name":"zCRM-SecGroups","url":"zCRM-SecGroups"
+
+    },{
+
+      "name":"zCRM-Settings","url":"zCRM-Settings"
+
+    },{
+
+      "name":"zCRM-ShipDtl","url":"zCRM-ShipDtl"
+
+    },{
+
+      "name":"zCRM-ShipDtl-Edit","url":"zCRM-ShipDtl-Edit"
+
+    },{
+
+      "name":"zCRM-ShipHed","url":"zCRM-ShipHed"
+
+    },{
+
+      "name":"zCRM-ShipHed-Edit","url":"zCRM-ShipHed-Edit"
+
+    },{
+
+      "name":"zCRM-ShipTos","url":"zCRM-ShipTos"
+
+    },{
+
+      "name":"zCRM-ShipVia","url":"zCRM-ShipVia"
+
+    },{
+
+      "name":"zCRM-SysTags","url":"zCRM-SysTags"
+
+    },{
+
+      "name":"zCRM-Tags","url":"zCRM-Tags"
+
+    },{
+
+      "name":"zCRM-TaskMaster","url":"zCRM-TaskMaster"
+
+    },{
+
+      "name":"zCRM-Tasks","url":"zCRM-Tasks"
+
+    },{
+
+      "name":"zCRM-TasksDtl","url":"zCRM-TasksDtl"
+
+    },{
+
+      "name":"zCRM-TaskSets","url":"zCRM-TaskSets"
+
+    },{
+
+      "name":"zCRM-TasksNxt","url":"zCRM-TasksNxt"
+
+    },{
+
+      "name":"zCRM-TaskTypes","url":"zCRM-TaskTypes"
+
+    },{
+
+      "name":"zCRM-TaxCats","url":"zCRM-TaxCats"
+
+    },{
+
+      "name":"zCRM-Taxes","url":"zCRM-Taxes"
+
+    },{
+
+      "name":"zCRM-Terms","url":"zCRM-Terms"
+
+    },{
+
+      "name":"zCRM-UnitOfMeasure","url":"zCRM-UnitOfMeasure"
+
+    },{
+
+      "name":"zCRM-UserComp","url":"zCRM-UserComp"
+
+    },{
+
+      "name":"zCRM-Users","url":"zCRM-Users"
+
+    },{
+
+      "name":"zCRM-WarehouseBins","url":"zCRM-WarehouseBins"
+
+    },{
+
+      "name":"zCRM-Warehouses","url":"zCRM-Warehouses"
+
+    },{
+
+      "name":"zCRM-WorkflowGroups","url":"zCRM-WorkflowGroups"
+
+    },{
+
+      "name":"zCubeDimLoadGraph","url":"zCubeDimLoadGraph"
+
+    },{
+
+      "name":"zCustCntAttr","url":"zCustCntAttr"
+
+    },{
+
+      "name":"zCustContacts","url":"zCustContacts"
+
+    },{
+
+      "name":"zCustJobs","url":"zCustJobs"
+
+    },{
+
+      "name":"zCustomer01","url":"zCustomer01"
+
+    },{
+
+      "name":"zCustomerAttrib","url":"zCustomerAttrib"
+
+    },{
+
+      "name":"zCustomerSearch","url":"zCustomerSearch"
+
+    },{
+
+      "name":"zCustomerShipments","url":"zCustomerShipments"
+
+    },{
+
+      "name":"zCustOrdersOnHold","url":"zCustOrdersOnHold"
+
+    },{
+
+      "name":"zCustShipments","url":"zCustShipments"
+
+    },{
+
+      "name":"zCustTrackerCRMCalls","url":"zCustTrackerCRMCalls"
+
+    },{
+
+      "name":"zCustTrackerInvoices","url":"zCustTrackerInvoices"
+
+    },{
+
+      "name":"zCustTrackerOrders01","url":"zCustTrackerOrders01"
+
+    },{
+
+      "name":"zCustTrackerQuotes01","url":"zCustTrackerQuotes01"
+
+    },{
+
+      "name":"zCustTrackerRMAs01","url":"zCustTrackerRMAs01"
+
+    },{
+
+      "name":"zCustTrackerShipment","url":"zCustTrackerShipment"
+
+    },{
+
+      "name":"zCustTrackerTasks01","url":"zCustTrackerTasks01"
+
+    },{
+
+      "name":"zCustTrkServiceCall","url":"zCustTrkServiceCall"
+
+    },{
+
+      "name":"zDataRelations","url":"zDataRelations"
+
+    },{
+
+      "name":"zDemandNetChange","url":"zDemandNetChange"
+
+    },{
+
+      "name":"zDepartment","url":"zDepartment"
+
+    },{
+
+      "name":"zDepartmentSLG","url":"zDepartmentSLG"
+
+    },{
+
+      "name":"zDeptLoad","url":"zDeptLoad"
+
+    },{
+
+      "name":"zDeptSLG","url":"zDeptSLG"
+
+    },{
+
+      "name":"zDropShipStatus","url":"zDropShipStatus"
+
+    },{
+
+      "name":"zEDI-PO-Tracker","url":"zEDI-PO-Tracker"
+
+    },{
+
+      "name":"zEInvoice_List_Report","url":"zEInvoice_List_Report"
+
+    },{
+
+      "name":"zEinvoiceStatus","url":"zEinvoiceStatus"
+
+    },{
+
+      "name":"zEmployeeEfficiency","url":"zEmployeeEfficiency"
+
+    },{
+
+      "name":"zEmployeeSearch","url":"zEmployeeSearch"
+
+    },{
+
+      "name":"zES_Calls","url":"zES_Calls"
+
+    },{
+
+      "name":"zES_Campaigns","url":"zES_Campaigns"
+
+    },{
+
+      "name":"zES_Cases","url":"zES_Cases"
+
+    },{
+
+      "name":"zES_Contacts","url":"zES_Contacts"
+
+    },{
+
+      "name":"zES_Customers","url":"zES_Customers"
+
+    },{
+
+      "name":"zES_InventoryAdvisor","url":"zES_InventoryAdvisor"
+
+    },{
+
+      "name":"zES_Invoice","url":"zES_Invoice"
+
+    },{
+
+      "name":"zES_InvoiceLines","url":"zES_InvoiceLines"
+
+    },{
+
+      "name":"zES_Job","url":"zES_Job"
+
+    },{
+
+      "name":"zES_JobMaterials","url":"zES_JobMaterials"
+
+    },{
+
+      "name":"zES_JobOperations","url":"zES_JobOperations"
+
+    },{
+
+      "name":"zES_MarketingEvents","url":"zES_MarketingEvents"
+
+    },{
+
+      "name":"zES_OpMaster","url":"zES_OpMaster"
+
+    },{
+
+      "name":"zES_Part","url":"zES_Part"
+
+    },{
+
+      "name":"zES_PartBom","url":"zES_PartBom"
+
+    },{
+
+      "name":"zES_PartRevisions","url":"zES_PartRevisions"
+
+    },{
+
+      "name":"zES_Parttran","url":"zES_Parttran"
+
+    },{
+
+      "name":"zES_Project","url":"zES_Project"
+
+    },{
+
+      "name":"zES_PurchaseOrder","url":"zES_PurchaseOrder"
+
+    },{
+
+      "name":"zES_PurchaseOrderLines","url":"zES_PurchaseOrderLines"
+
+    },{
+
+      "name":"zES_Quote","url":"zES_Quote"
+
+    },{
+
+      "name":"zES_QuoteLines","url":"zES_QuoteLines"
+
+    },{
+
+      "name":"zES_Resource","url":"zES_Resource"
+
+    },{
+
+      "name":"zES_ResourceGroup","url":"zES_ResourceGroup"
+
+    },{
+
+      "name":"zES_SalesOrder","url":"zES_SalesOrder"
+
+    },{
+
+      "name":"zES_SalesOrderLines","url":"zES_SalesOrderLines"
+
+    },{
+
+      "name":"zES_SerialNumber","url":"zES_SerialNumber"
+
+    },{
+
+      "name":"zES_Shipment","url":"zES_Shipment"
+
+    },{
+
+      "name":"zES_ShipmentLines","url":"zES_ShipmentLines"
+
+    },{
+
+      "name":"zES_Shipto","url":"zES_Shipto"
+
+    },{
+
+      "name":"zESignatureAuditReport","url":"zESignatureAuditReport"
+
+    },{
+
+      "name":"zExecutiveLoadGraph","url":"zExecutiveLoadGraph"
+
+    },{
+
+      "name":"zFormType1099_US","url":"zFormType1099_US"
+
+    },{
+
+      "name":"zHomepage_APAgedPayables","url":"zHomepage_APAgedPayables"
+
+    },{
+
+      "name":"zHomepage_APBalance","url":"zHomepage_APBalance"
+
+    },{
+
+      "name":"zHomepage_ARAgedReceivables","url":"zHomepage_ARAgedReceivables"
+
+    },{
+
+      "name":"zHomepage_ARBalance","url":"zHomepage_ARBalance"
+
+    },{
+
+      "name":"zHomepage_CashOnHand","url":"zHomepage_CashOnHand"
+
+    },{
+
+      "name":"zHomepage_InvObsolete","url":"zHomepage_InvObsolete"
+
+    },{
+
+      "name":"zHomepage_Job","url":"zHomepage_Job"
+
+    },{
+
+      "name":"zHomepage_JobCleanVsOccurrence","url":"zHomepage_JobCleanVsOccurrence"
+
+    },{
+
+      "name":"zHomepage_JobPastDue","url":"zHomepage_JobPastDue"
+
+    },{
+
+      "name":"zHomepage_MfgCycleTime","url":"zHomepage_MfgCycleTime"
+
+    },{
+
+      "name":"zHomepage_MfgHrs","url":"zHomepage_MfgHrs"
+
+    },{
+
+      "name":"zHomepage_OEEByResGroup365Days","url":"zHomepage_OEEByResGroup365Days"
+
+    },{
+
+      "name":"zHomepage_OEEbyResource365Days","url":"zHomepage_OEEbyResource365Days"
+
+    },{
+
+      "name":"zHomepage_OnTimeDelivery","url":"zHomepage_OnTimeDelivery"
+
+    },{
+
+      "name":"zHomepage_OutstandingRec","url":"zHomepage_OutstandingRec"
+
+    },{
+
+      "name":"zHomepage_PartsOutOfStock","url":"zHomepage_PartsOutOfStock"
+
+    },{
+
+      "name":"zHomepage_POOpen","url":"zHomepage_POOpen"
+
+    },{
+
+      "name":"zHomepage_POPriceVariance","url":"zHomepage_POPriceVariance"
+
+    },{
+
+      "name":"zHomepage_ProjectPhase","url":"zHomepage_ProjectPhase"
+
+    },{
+
+      "name":"zHomepage_Projects","url":"zHomepage_Projects"
+
+    },{
+
+      "name":"zHomepage_QuoteCount_Amount","url":"zHomepage_QuoteCount_Amount"
+
+    },{
+
+      "name":"zHomepage_QuoteWinLose","url":"zHomepage_QuoteWinLose"
+
+    },{
+
+      "name":"zHomepage_RMADisposition","url":"zHomepage_RMADisposition"
+
+    },{
+
+      "name":"zHomepage_SalesGrossMargin","url":"zHomepage_SalesGrossMargin"
+
+    },{
+
+      "name":"zHomepage_ShippedNotInvoiced","url":"zHomepage_ShippedNotInvoiced"
+
+    },{
+
+      "name":"zHomepage_SODetail","url":"zHomepage_SODetail"
+
+    },{
+
+      "name":"zHomepage_SOHeader","url":"zHomepage_SOHeader"
+
+    },{
+
+      "name":"zHomepage_SOInvYTDvsLYTD","url":"zHomepage_SOInvYTDvsLYTD"
+
+    },{
+
+      "name":"zHomepage_SOOpen","url":"zHomepage_SOOpen"
+
+    },{
+
+      "name":"zHomepage_SOPastDue","url":"zHomepage_SOPastDue"
+
+    },{
+
+      "name":"zHomepage_SOShipmentLines","url":"zHomepage_SOShipmentLines"
+
+    },{
+
+      "name":"zHomepage_SOShipments","url":"zHomepage_SOShipments"
+
+    },{
+
+      "name":"zIntrastat","url":"zIntrastat"
+
+    },{
+
+      "name":"zIWAppointments","url":"zIWAppointments"
+
+    },{
+
+      "name":"zIWAppointmentType","url":"zIWAppointmentType"
+
+    },{
+
+      "name":"zIWBOLDetail","url":"zIWBOLDetail"
+
+    },{
+
+      "name":"zIWBOLHead","url":"zIWBOLHead"
+
+    },{
+
+      "name":"zIWCRMCall","url":"zIWCRMCall"
+
+    },{
+
+      "name":"zIWCRMCallType","url":"zIWCRMCallType"
+
+    },{
+
+      "name":"zIWCRMLoseReasons","url":"zIWCRMLoseReasons"
+
+    },{
+
+      "name":"zIWCRMTaskReason","url":"zIWCRMTaskReason"
+
+    },{
+
+      "name":"zIWCRMWinReasons","url":"zIWCRMWinReasons"
+
+    },{
+
+      "name":"zIWCustBillTo","url":"zIWCustBillTo"
+
+    },{
+
+      "name":"zIWCustCnt","url":"zIWCustCnt"
+
+    },{
+
+      "name":"zIWCustomer","url":"zIWCustomer"
+
+    },{
+
+      "name":"zIWCustXPart","url":"zIWCustXPart"
+
+    },{
+
+      "name":"zIWFSCallDt","url":"zIWFSCallDt"
+
+    },{
+
+      "name":"zIWFSCallHd","url":"zIWFSCallHd"
+
+    },{
+
+      "name":"zIWFSCallSv","url":"zIWFSCallSv"
+
+    },{
+
+      "name":"zIWFSContDt","url":"zIWFSContDt"
+
+    },{
+
+      "name":"zIWFSContHd","url":"zIWFSContHd"
+
+    },{
+
+      "name":"zIWFSContInvoice","url":"zIWFSContInvoice"
+
+    },{
+
+      "name":"zIWFSContSN","url":"zIWFSContSN"
+
+    },{
+
+      "name":"zIWFSMisc","url":"zIWFSMisc"
+
+    },{
+
+      "name":"zIWHDCase","url":"zIWHDCase"
+
+    },{
+
+      "name":"zIWHDCaseFSCalls","url":"zIWHDCaseFSCalls"
+
+    },{
+
+      "name":"zIWHDCaseJobs","url":"zIWHDCaseJobs"
+
+    },{
+
+      "name":"zIWHDCaseLink","url":"zIWHDCaseLink"
+
+    },{
+
+      "name":"zIWHDCaseMaintReqs","url":"zIWHDCaseMaintReqs"
+
+    },{
+
+      "name":"zIWHDCaseOrders","url":"zIWHDCaseOrders"
+
+    },{
+
+      "name":"zIWHDCaseQuotes","url":"zIWHDCaseQuotes"
+
+    },{
+
+      "name":"zIWHDCaseReasons","url":"zIWHDCaseReasons"
+
+    },{
+
+      "name":"zIWHDCaseRMAs","url":"zIWHDCaseRMAs"
+
+    },{
+
+      "name":"zIWInvcDtl","url":"zIWInvcDtl"
+
+    },{
+
+      "name":"zIWInvcHead","url":"zIWInvcHead"
+
+    },{
+
+      "name":"zIWInvcMisc","url":"zIWInvcMisc"
+
+    },{
+
+      "name":"zIWInvcTax","url":"zIWInvcTax"
+
+    },{
+
+      "name":"zIWMasterPack","url":"zIWMasterPack"
+
+    },{
+
+      "name":"zIWMasterPackDtl","url":"zIWMasterPackDtl"
+
+    },{
+
+      "name":"zIWMktgList","url":"zIWMktgList"
+
+    },{
+
+      "name":"zIWMktgListDtl","url":"zIWMktgListDtl"
+
+    },{
+
+      "name":"zIWMscShpDt","url":"zIWMscShpDt"
+
+    },{
+
+      "name":"zIWMscShpHd","url":"zIWMscShpHd"
+
+    },{
+
+      "name":"zIWOrderDtl","url":"zIWOrderDtl"
+
+    },{
+
+      "name":"zIWOrderHed","url":"zIWOrderHed"
+
+    },{
+
+      "name":"zIWOrderHedMsc","url":"zIWOrderHedMsc"
+
+    },{
+
+      "name":"zIWOrderLineMsc","url":"zIWOrderLineMsc"
+
+    },{
+
+      "name":"zIWOrderRel","url":"zIWOrderRel"
+
+    },{
+
+      "name":"zIWQSalesRP","url":"zIWQSalesRP"
+
+    },{
+
+      "name":"zIWQuoteAdt","url":"zIWQuoteAdt"
+
+    },{
+
+      "name":"zIWQuoteCnt","url":"zIWQuoteCnt"
+
+    },{
+
+      "name":"zIWQuoteCom","url":"zIWQuoteCom"
+
+    },{
+
+      "name":"zIWQuoteDtl","url":"zIWQuoteDtl"
+
+    },{
+
+      "name":"zIWQuoteHed","url":"zIWQuoteHed"
+
+    },{
+
+      "name":"zIWQuoteHedMsc","url":"zIWQuoteHedMsc"
+
+    },{
+
+      "name":"zIWQuoteLineMsc","url":"zIWQuoteLineMsc"
+
+    },{
+
+      "name":"zIWQuoteMsc","url":"zIWQuoteMsc"
+
+    },{
+
+      "name":"zIWQuoteQty","url":"zIWQuoteQty"
+
+    },{
+
+      "name":"zIWQuoteQtyMsc","url":"zIWQuoteQtyMsc"
+
+    },{
+
+      "name":"zIWRMADisp","url":"zIWRMADisp"
+
+    },{
+
+      "name":"zIWRMADtl","url":"zIWRMADtl"
+
+    },{
+
+      "name":"zIWRMAHead","url":"zIWRMAHead"
+
+    },{
+
+      "name":"zIWRMARcpt","url":"zIWRMARcpt"
+
+    },{
+
+      "name":"zIWSalesTerritory","url":"zIWSalesTerritory"
+
+    },{
+
+      "name":"zIWShipDtl","url":"zIWShipDtl"
+
+    },{
+
+      "name":"zIWShipHead","url":"zIWShipHead"
+
+    },{
+
+      "name":"zIWShipMisc","url":"zIWShipMisc"
+
+    },{
+
+      "name":"zIWShipTo","url":"zIWShipTo"
+
+    },{
+
+      "name":"zIWTaskAssignedTo","url":"zIWTaskAssignedTo"
+
+    },{
+
+      "name":"zIWTaskCloseReasons","url":"zIWTaskCloseReasons"
+
+    },{
+
+      "name":"zIWTaskMaster","url":"zIWTaskMaster"
+
+    },{
+
+      "name":"zIWTaskNextMilestones","url":"zIWTaskNextMilestones"
+
+    },{
+
+      "name":"zIWTasks","url":"zIWTasks"
+
+    },{
+
+      "name":"zIWTaskSetDetails","url":"zIWTaskSetDetails"
+
+    },{
+
+      "name":"zIWTaskSets","url":"zIWTaskSets"
+
+    },{
+
+      "name":"zIWTaskStatus","url":"zIWTaskStatus"
+
+    },{
+
+      "name":"zIWTaskType","url":"zIWTaskType"
+
+    },{
+
+      "name":"zIWWorkforce","url":"zIWWorkforce"
+
+    },{
+
+      "name":"zJCDept","url":"zJCDept"
+
+    },{
+
+      "name":"zJobAsmbl01","url":"zJobAsmbl01"
+
+    },{
+
+      "name":"zJobAsmSearch","url":"zJobAsmSearch"
+
+    },{
+
+      "name":"zJobAssembliesOpen","url":"zJobAssembliesOpen"
+
+    },{
+
+      "name":"zJobClosinglog","url":"zJobClosinglog"
+
+    },{
+
+      "name":"zJobClosingLogDetails","url":"zJobClosingLogDetails"
+
+    },{
+
+      "name":"zJobCompletionlog","url":"zJobCompletionlog"
+
+    },{
+
+      "name":"zjobhead01","url":"zjobhead01"
+
+    },{
+
+      "name":"zJobLink","url":"zJobLink"
+
+    },{
+
+      "name":"zJobMaterial","url":"zJobMaterial"
+
+    },{
+
+      "name":"zJobMaterial01","url":"zJobMaterial01"
+
+    },{
+
+      "name":"zJobOper01","url":"zJobOper01"
+
+    },{
+
+      "name":"zJobProd01","url":"zJobProd01"
+
+    },{
+
+      "name":"zJobProfitLoss","url":"zJobProfitLoss"
+
+    },{
+
+      "name":"zKanbanBinComplete","url":"zKanbanBinComplete"
+
+    },{
+
+      "name":"zKanbanBinFlow","url":"zKanbanBinFlow"
+
+    },{
+
+      "name":"zKanbanBinItems","url":"zKanbanBinItems"
+
+    },{
+
+      "name":"zKanbanBinRequests","url":"zKanbanBinRequests"
+
+    },{
+
+      "name":"zKanbanBinStock","url":"zKanbanBinStock"
+
+    },{
+
+      "name":"zKanbanBinSupplier","url":"zKanbanBinSupplier"
+
+    },{
+
+      "name":"zKanbanBinWhse","url":"zKanbanBinWhse"
+
+    },{
+
+      "name":"zKanbanWarehouse","url":"zKanbanWarehouse"
+
+    },{
+
+      "name":"zKanbanWhseComplete","url":"zKanbanWhseComplete"
+
+    },{
+
+      "name":"zKanbanWhseFlow","url":"zKanbanWhseFlow"
+
+    },{
+
+      "name":"zKanbanWhseItems","url":"zKanbanWhseItems"
+
+    },{
+
+      "name":"zKanbanWhseRequests","url":"zKanbanWhseRequests"
+
+    },{
+
+      "name":"zKanbanWhseStock","url":"zKanbanWhseStock"
+
+    },{
+
+      "name":"zKanbanWhseSupplier","url":"zKanbanWhseSupplier"
+
+    },{
+
+      "name":"zLaborDetail","url":"zLaborDetail"
+
+    },{
+
+      "name":"zLaborDtl","url":"zLaborDtl"
+
+    },{
+
+      "name":"zLaborDtl01","url":"zLaborDtl01"
+
+    },{
+
+      "name":"zLCNRVReporSubQueryCurrRateGrp","url":"zLCNRVReporSubQueryCurrRateGrp"
+
+    },{
+
+      "name":"zLCNRVReportHeader","url":"zLCNRVReportHeader"
+
+    },{
+
+      "name":"zMasterPack","url":"zMasterPack"
+
+    },{
+
+      "name":"zMaterialTrans01","url":"zMaterialTrans01"
+
+    },{
+
+      "name":"zmenu","url":"zmenu"
+
+    },{
+
+      "name":"zMenuIDsVisible","url":"zMenuIDsVisible"
+
+    },{
+
+      "name":"zMenuSecDynRpt","url":"zMenuSecDynRpt"
+
+    },{
+
+      "name":"zMethodOprDtl","url":"zMethodOprDtl"
+
+    },{
+
+      "name":"zMfgCube","url":"zMfgCube"
+
+    },{
+
+      "name":"zMfgCubeBacklogData","url":"zMfgCubeBacklogData"
+
+    },{
+
+      "name":"zMfgCubeBacklogDimDtls","url":"zMfgCubeBacklogDimDtls"
+
+    },{
+
+      "name":"zMfgCubeBLogDimCube","url":"zMfgCubeBLogDimCube"
+
+    },{
+
+      "name":"zMfgCubeCustShipDimCube","url":"zMfgCubeCustShipDimCube"
+
+    },{
+
+      "name":"zMfgCubeCustShipDimDtls","url":"zMfgCubeCustShipDimDtls"
+
+    },{
+
+      "name":"zMfgCubeCustShipPerfData","url":"zMfgCubeCustShipPerfData"
+
+    },{
+
+      "name":"zMfgCubeDim1","url":"zMfgCubeDim1"
+
+    },{
+
+      "name":"zMfgCubeDim1ShopLoad","url":"zMfgCubeDim1ShopLoad"
+
+    },{
+
+      "name":"zMfgCubeDim2","url":"zMfgCubeDim2"
+
+    },{
+
+      "name":"zMfgCubeDimOne","url":"zMfgCubeDimOne"
+
+    },{
+
+      "name":"zMfgCubeDimShopLoad","url":"zMfgCubeDimShopLoad"
+
+    },{
+
+      "name":"zMfgCubePlantPerfData","url":"zMfgCubePlantPerfData"
+
+    },{
+
+      "name":"zMfgCubePlantPerfDimCube","url":"zMfgCubePlantPerfDimCube"
+
+    },{
+
+      "name":"zMfgCubePlantPerfDimDtls","url":"zMfgCubePlantPerfDimDtls"
+
+    },{
+
+      "name":"zMfgCubeShopLoad","url":"zMfgCubeShopLoad"
+
+    },{
+
+      "name":"zMfgCubeShopLoadEntities","url":"zMfgCubeShopLoadEntities"
+
+    },{
+
+      "name":"zMfgCubeShopLoadGroupDetails","url":"zMfgCubeShopLoadGroupDetails"
+
+    },{
+
+      "name":"zMfgCubeSupPerfDimCube","url":"zMfgCubeSupPerfDimCube"
+
+    },{
+
+      "name":"zMfgCubeSupplierPerf","url":"zMfgCubeSupplierPerf"
+
+    },{
+
+      "name":"zMfgCubeSupplierPerfDimDtls","url":"zMfgCubeSupplierPerfDimDtls"
+
+    },{
+
+      "name":"zMktgList","url":"zMktgList"
+
+    },{
+
+      "name":"zMscShipTracker01","url":"zMscShipTracker01"
+
+    },{
+
+      "name":"zNonConf","url":"zNonConf"
+
+    },{
+
+      "name":"zOpenDMRActions","url":"zOpenDMRActions"
+
+    },{
+
+      "name":"zOverLoadInformer","url":"zOverLoadInformer"
+
+    },{
+
+      "name":"zpackquicksearch","url":"zpackquicksearch"
+
+    },{
+
+      "name":"zPActDetail","url":"zPActDetail"
+
+    },{
+
+      "name":"zPActivity","url":"zPActivity"
+
+    },{
+
+      "name":"zPActSum","url":"zPActSum"
+
+    },{
+
+      "name":"zPartAdvisor","url":"zPartAdvisor"
+
+    },{
+
+      "name":"zPartCost","url":"zPartCost"
+
+    },{
+
+      "name":"zPartDim","url":"zPartDim"
+
+    },{
+
+      "name":"zPartFIFOCost","url":"zPartFIFOCost"
+
+    },{
+
+      "name":"zPartFIFOTran","url":"zPartFIFOTran"
+
+    },{
+
+      "name":"zPartInspect","url":"zPartInspect"
+
+    },{
+
+      "name":"zPartInspectNonConf","url":"zPartInspectNonConf"
+
+    },{
+
+      "name":"zPartInspectRMA","url":"zPartInspectRMA"
+
+    },{
+
+      "name":"zPartLot","url":"zPartLot"
+
+    },{
+
+      "name":"zPartLotDetail","url":"zPartLotDetail"
+
+    },{
+
+      "name":"zPartLotOnHand","url":"zPartLotOnHand"
+
+    },{
+
+      "name":"zPartLotTran","url":"zPartLotTran"
+
+    },{
+
+      "name":"zPartMRB","url":"zPartMRB"
+
+    },{
+
+      "name":"zPartMtlRefDes","url":"zPartMtlRefDes"
+
+    },{
+
+      "name":"zPartPlant","url":"zPartPlant"
+
+    },{
+
+      "name":"zPartPlantUpdate","url":"zPartPlantUpdate"
+
+    },{
+
+      "name":"zPartSub","url":"zPartSub"
+
+    },{
+
+      "name":"zPartSubs","url":"zPartSubs"
+
+    },{
+
+      "name":"zPartTracker01","url":"zPartTracker01"
+
+    },{
+
+      "name":"zPartUpdate","url":"zPartUpdate"
+
+    },{
+
+      "name":"zPartWarehouse","url":"zPartWarehouse"
+
+    },{
+
+      "name":"zPartWehreUsed2","url":"zPartWehreUsed2"
+
+    },{
+
+      "name":"zPartWhereUsed","url":"zPartWhereUsed"
+
+    },{
+
+      "name":"zPartWhereUsed2","url":"zPartWhereUsed2"
+
+    },{
+
+      "name":"zPartWhereUsedDnLvl","url":"zPartWhereUsedDnLvl"
+
+    },{
+
+      "name":"zPartWhereUsedUpLvl","url":"zPartWhereUsedUpLvl"
+
+    },{
+
+      "name":"zPartWip","url":"zPartWip"
+
+    },{
+
+      "name":"zPartWipTran","url":"zPartWipTran"
+
+    },{
+
+      "name":"zPaymentInstrument","url":"zPaymentInstrument"
+
+    },{
+
+      "name":"zPeriodicAvgCostReportDetails","url":"zPeriodicAvgCostReportDetails"
+
+    },{
+
+      "name":"zPeriodicAvgCostReportHeader","url":"zPeriodicAvgCostReportHeader"
+
+    },{
+
+      "name":"zPeriodicAvgCostReportSummary","url":"zPeriodicAvgCostReportSummary"
+
+    },{
+
+      "name":"zPlantPerf","url":"zPlantPerf"
+
+    },{
+
+      "name":"zPlantTran","url":"zPlantTran"
+
+    },{
+
+      "name":"zPlasticTaxReport","url":"zPlasticTaxReport"
+
+    },{
+
+      "name":"zPOHeader01","url":"zPOHeader01"
+
+    },{
+
+      "name":"zPOLine","url":"zPOLine"
+
+    },{
+
+      "name":"zPOLine01","url":"zPOLine01"
+
+    },{
+
+      "name":"zPOLineSearch","url":"zPOLineSearch"
+
+    },{
+
+      "name":"zPOReceipts","url":"zPOReceipts"
+
+    },{
+
+      "name":"zPoRelease","url":"zPoRelease"
+
+    },{
+
+      "name":"zPOReleaseSearch","url":"zPOReleaseSearch"
+
+    },{
+
+      "name":"zPOTracker","url":"zPOTracker"
+
+    },{
+
+      "name":"zProdActDtl","url":"zProdActDtl"
+
+    },{
+
+      "name":"zProdActHead","url":"zProdActHead"
+
+    },{
+
+      "name":"zProductionPlannerJobs","url":"zProductionPlannerJobs"
+
+    },{
+
+      "name":"zProductionPlannerMtl","url":"zProductionPlannerMtl"
+
+    },{
+
+      "name":"zProductionPlannerParts","url":"zProductionPlannerParts"
+
+    },{
+
+      "name":"zPurPoint01","url":"zPurPoint01"
+
+    },{
+
+      "name":"zPVAPInvcDtl","url":"zPVAPInvcDtl"
+
+    },{
+
+      "name":"zPVAPInvcHed","url":"zPVAPInvcHed"
+
+    },{
+
+      "name":"zPVCashDtl","url":"zPVCashDtl"
+
+    },{
+
+      "name":"zPVCashHead","url":"zPVCashHead"
+
+    },{
+
+      "name":"zPVCheckHed","url":"zPVCheckHed"
+
+    },{
+
+      "name":"zPVCreditCardTrans","url":"zPVCreditCardTrans"
+
+    },{
+
+      "name":"zPVCRMCall","url":"zPVCRMCall"
+
+    },{
+
+      "name":"zPVCustCnt","url":"zPVCustCnt"
+
+    },{
+
+      "name":"zPVCustomer","url":"zPVCustomer"
+
+    },{
+
+      "name":"zPVCustShipPerf","url":"zPVCustShipPerf"
+
+    },{
+
+      "name":"zPVFSCallDt","url":"zPVFSCallDt"
+
+    },{
+
+      "name":"zPVFSCallHd","url":"zPVFSCallHd"
+
+    },{
+
+      "name":"zPVInvcDtl","url":"zPVInvcDtl"
+
+    },{
+
+      "name":"zPVInvcHead","url":"zPVInvcHead"
+
+    },{
+
+      "name":"zPVLUContacts","url":"zPVLUContacts"
+
+    },{
+
+      "name":"zPVLUCountry","url":"zPVLUCountry"
+
+    },{
+
+      "name":"zPVLUShipTo","url":"zPVLUShipTo"
+
+    },{
+
+      "name":"zPVOrderDtl","url":"zPVOrderDtl"
+
+    },{
+
+      "name":"zPVOrderHed","url":"zPVOrderHed"
+
+    },{
+
+      "name":"zPVOrderRel","url":"zPVOrderRel"
+
+    },{
+
+      "name":"zPVPODetail","url":"zPVPODetail"
+
+    },{
+
+      "name":"zPVPOHeader","url":"zPVPOHeader"
+
+    },{
+
+      "name":"zPVQuoteDtl","url":"zPVQuoteDtl"
+
+    },{
+
+      "name":"zPVQuoteHed","url":"zPVQuoteHed"
+
+    },{
+
+      "name":"zPVRMADtl","url":"zPVRMADtl"
+
+    },{
+
+      "name":"zPVRMAHead","url":"zPVRMAHead"
+
+    },{
+
+      "name":"zPVRoleCd","url":"zPVRoleCd"
+
+    },{
+
+      "name":"zPVSalesOrderBackLog","url":"zPVSalesOrderBackLog"
+
+    },{
+
+      "name":"zPVShipDtl","url":"zPVShipDtl"
+
+    },{
+
+      "name":"zPVShipHead","url":"zPVShipHead"
+
+    },{
+
+      "name":"zPVSupPart","url":"zPVSupPart"
+
+    },{
+
+      "name":"zPVSuppCnt","url":"zPVSuppCnt"
+
+    },{
+
+      "name":"zPVSupplier","url":"zPVSupplier"
+
+    },{
+
+      "name":"zPVSupplierPerf","url":"zPVSupplierPerf"
+
+    },{
+
+      "name":"zPVSupPriceBrk","url":"zPVSupPriceBrk"
+
+    },{
+
+      "name":"zPVSupRFQ","url":"zPVSupRFQ"
+
+    },{
+
+      "name":"zPVSupRFQResp","url":"zPVSupRFQResp"
+
+    },{
+
+      "name":"zPVSupRFQwQty","url":"zPVSupRFQwQty"
+
+    },{
+
+      "name":"zQuoteDtl","url":"zQuoteDtl"
+
+    },{
+
+      "name":"zQuoteLineSearch","url":"zQuoteLineSearch"
+
+    },{
+
+      "name":"zQuoteQty","url":"zQuoteQty"
+
+    },{
+
+      "name":"zQuoteStatus","url":"zQuoteStatus"
+
+    },{
+
+      "name":"zquotetracker01","url":"zquotetracker01"
+
+    },{
+
+      "name":"zRebateContract","url":"zRebateContract"
+
+    },{
+
+      "name":"zRebateCustDtl","url":"zRebateCustDtl"
+
+    },{
+
+      "name":"zRebateDetail","url":"zRebateDetail"
+
+    },{
+
+      "name":"zRebateDtl","url":"zRebateDtl"
+
+    },{
+
+      "name":"zRebateHeader","url":"zRebateHeader"
+
+    },{
+
+      "name":"zRebatePymt","url":"zRebatePymt"
+
+    },{
+
+      "name":"zRebateTrans","url":"zRebateTrans"
+
+    },{
+
+      "name":"zReceiptStatus","url":"zReceiptStatus"
+
+    },{
+
+      "name":"zReceiptTracker01","url":"zReceiptTracker01"
+
+    },{
+
+      "name":"zRecieptsNotInvoice","url":"zRecieptsNotInvoice"
+
+    },{
+
+      "name":"zResGroupLoad","url":"zResGroupLoad"
+
+    },{
+
+      "name":"zResGroupLoadDept","url":"zResGroupLoadDept"
+
+    },{
+
+      "name":"zResGroupLoadDeptSLG","url":"zResGroupLoadDeptSLG"
+
+    },{
+
+      "name":"zResGroupSLG","url":"zResGroupSLG"
+
+    },{
+
+      "name":"zResourceCollections","url":"zResourceCollections"
+
+    },{
+
+      "name":"zResourceEfficiency","url":"zResourceEfficiency"
+
+    },{
+
+      "name":"zResourceGroupList","url":"zResourceGroupList"
+
+    },{
+
+      "name":"zResourceList","url":"zResourceList"
+
+    },{
+
+      "name":"zResourceLoad","url":"zResourceLoad"
+
+    },{
+
+      "name":"zResourceLoadSLG","url":"zResourceLoadSLG"
+
+    },{
+
+      "name":"zRevision","url":"zRevision"
+
+    },{
+
+      "name":"zRMATracker01","url":"zRMATracker01"
+
+    },{
+
+      "name":"zSalesOrderAllDemand","url":"zSalesOrderAllDemand"
+
+    },{
+
+      "name":"zSalesOrderBackLog","url":"zSalesOrderBackLog"
+
+    },{
+
+      "name":"zSalesOrderLine","url":"zSalesOrderLine"
+
+    },{
+
+      "name":"zSalesOrderLineSearch","url":"zSalesOrderLineSearch"
+
+    },{
+
+      "name":"zSalesOrderRelSearch","url":"zSalesOrderRelSearch"
+
+    },{
+
+      "name":"zSalesOrders01","url":"zSalesOrders01"
+
+    },{
+
+      "name":"zSalesOrderShortageAllSupply","url":"zSalesOrderShortageAllSupply"
+
+    },{
+
+      "name":"zSalesOrderShortagePegging","url":"zSalesOrderShortagePegging"
+
+    },{
+
+      "name":"zSalesOrderShortagePegSupply","url":"zSalesOrderShortagePegSupply"
+
+    },{
+
+      "name":"zSalesOrderStatus","url":"zSalesOrderStatus"
+
+    },{
+
+      "name":"zSEPADD_ARPaym_NotPosted","url":"zSEPADD_ARPaym_NotPosted"
+
+    },{
+
+      "name":"zSEPADD_ARPaymToCollect","url":"zSEPADD_ARPaymToCollect"
+
+    },{
+
+      "name":"zSerialNumber","url":"zSerialNumber"
+
+    },{
+
+      "name":"zShipDtlSearch","url":"zShipDtlSearch"
+
+    },{
+
+      "name":"zshipments01","url":"zshipments01"
+
+    },{
+
+      "name":"zShipTo","url":"zShipTo"
+
+    },{
+
+      "name":"zShiptos","url":"zShiptos"
+
+    },{
+
+      "name":"zShopCapacity","url":"zShopCapacity"
+
+    },{
+
+      "name":"zShopCapAndLoad","url":"zShopCapAndLoad"
+
+    },{
+
+      "name":"zShopLoad01","url":"zShopLoad01"
+
+    },{
+
+      "name":"zShopTrkActiveTran","url":"zShopTrkActiveTran"
+
+    },{
+
+      "name":"zShopTrkHere","url":"zShopTrkHere"
+
+    },{
+
+      "name":"zShopTrkNotHere","url":"zShopTrkNotHere"
+
+    },{
+
+      "name":"zShopTrkResources","url":"zShopTrkResources"
+
+    },{
+
+      "name":"zShopWarning","url":"zShopWarning"
+
+    },{
+
+      "name":"zSupContact01","url":"zSupContact01"
+
+    },{
+
+      "name":"zSupplierContacts","url":"zSupplierContacts"
+
+    },{
+
+      "name":"zSupplierContainerComment","url":"zSupplierContainerComment"
+
+    },{
+
+      "name":"zSupplierContainerDetail","url":"zSupplierContainerDetail"
+
+    },{
+
+      "name":"zSupplierContainerHead","url":"zSupplierContainerHead"
+
+    },{
+
+      "name":"zSupplierPP","url":"zSupplierPP"
+
+    },{
+
+      "name":"zSupplierQSearch","url":"zSupplierQSearch"
+
+    },{
+
+      "name":"zSupplierSearch","url":"zSupplierSearch"
+
+    },{
+
+      "name":"zSupplierTracker01","url":"zSupplierTracker01"
+
+    },{
+
+      "name":"zSupRFQ","url":"zSupRFQ"
+
+    },{
+
+      "name":"zSVCustShipPerf","url":"zSVCustShipPerf"
+
+    },{
+
+      "name":"zSVPlantPerformance","url":"zSVPlantPerformance"
+
+    },{
+
+      "name":"zSVSalesOrderBackLog","url":"zSVSalesOrderBackLog"
+
+    },{
+
+      "name":"zSVSupplierPerf","url":"zSVSupplierPerf"
+
+    },{
+
+      "name":"zSysActivityLog","url":"zSysActivityLog"
+
+    },{
+
+      "name":"zTaxGLJrnReconciliation","url":"zTaxGLJrnReconciliation"
+
+    },{
+
+      "name":"zTaxGLJrnReconciliation_GLBook","url":"zTaxGLJrnReconciliation_GLBook"
+
+    },{
+
+      "name":"zTaxValidationCompany","url":"zTaxValidationCompany"
+
+    },{
+
+      "name":"zTaxValidationCustomer","url":"zTaxValidationCustomer"
+
+    },{
+
+      "name":"zTaxValidationShipTo","url":"zTaxValidationShipTo"
+
+    },{
+
+      "name":"zTaxValidationVendor","url":"zTaxValidationVendor"
+
+    },{
+
+      "name":"zusers","url":"zusers"
+
+    },{
+
+      "name":"zUsersSecGroupsForCompany","url":"zUsersSecGroupsForCompany"
+
+    },{
+
+      "name":"zWarranties","url":"zWarranties"
+
+    },{
+
+      "name":"zWorkQueue","url":"zWorkQueue"
+
+    },{
+
+      "name":"rcbDemandCaptureFMOTest","url":"rcbDemandCaptureFMOTest"
+
+    },{
+
+      "name":"rcbEldMinMaxShp","url":"rcbEldMinMaxShp"
+
+    },{
+
+      "name":"rcbHoliday","url":"rcbHoliday"
+
+    },{
+
+      "name":"rcbHolidayExceptions","url":"rcbHolidayExceptions"
+
+    },{
+
+      "name":"rcbHorzProdDtl","url":"rcbHorzProdDtl"
+
+    },{
+
+      "name":"rcbJobTravWIPTest","url":"rcbJobTravWIPTest"
+
+    },{
+
+      "name":"rcbPayActIndLbr","url":"rcbPayActIndLbr"
+
+    },{
+
+      "name":"rcbPositivePay","url":"rcbPositivePay"
+
+    },{
+
+      "name":"rcbQSUD04","url":"rcbQSUD04"
+
+    },{
+
+      "name":"rcbQuoteHeaderFix","url":"rcbQuoteHeaderFix"
+
+    },{
+
+      "name":"rcbRapidPay1Wk","url":"rcbRapidPay1Wk"
+
+    },{
+
+      "name":"rcbRapidPay2WkTest","url":"rcbRapidPay2WkTest"
+
+    },{
+
+      "name":"rcbTestABC","url":"rcbTestABC"
+
+    },{
+
+      "name":"rcbTestAll","url":"rcbTestAll"
+
+    },{
+
+      "name":"rcbTestJobAsml","url":"rcbTestJobAsml"
+
+    },{
+
+      "name":"rcbTestLog","url":"rcbTestLog"
+
+    },{
+
+      "name":"rcbTestLTA","url":"rcbTestLTA"
+
+    },{
+
+      "name":"rcbTestParts","url":"rcbTestParts"
+
+    },{
+
+      "name":"rcbTestProdStd","url":"rcbTestProdStd"
+
+    },{
+
+      "name":"rcbTestReqHead","url":"rcbTestReqHead"
+
+    },{
+
+      "name":"rcbTestSO","url":"rcbTestSO"
+
+    },{
+
+      "name":"rcbTestTimePhase","url":"rcbTestTimePhase"
+
+    },{
+
+      "name":"rcbTestUD","url":"rcbTestUD"
+
+    },{
+
+      "name":"Test123","url":"Test123"
+
+    },{
+
+      "name":"OD-TranGLC","url":"OD-TranGLC"
+
+    },{
+
+      "name":"AR-JobHead","url":"AR-JobHead"
+
+    },{
+
+      "name":"AR-JobOp","url":"AR-JobOp"
+
+    },{
+
+      "name":"AR-JobPart","url":"AR-JobPart"
+
+    },{
+
+      "name":"AR-Mtl","url":"AR-Mtl"
+
+    },{
+
+      "name":"AR-Part","url":"AR-Part"
+
+    },{
+
+      "name":"AR-PartTrans","url":"AR-PartTrans"
+
+    },{
+
+      "name":"AR-PO","url":"AR-PO"
+
+    },{
+
+      "name":"D-ResourceGDetail","url":"D-ResourceGDetail"
+
+    },{
+
+      "name":"D-ResourceGroup","url":"D-ResourceGroup"
+
+    },{
+
+      "name":"OD-AP-Aging","url":"OD-AP-Aging"
+
+    },{
+
+      "name":"OD-AP-Aging-Detail","url":"OD-AP-Aging-Detail"
+
+    },{
+
+      "name":"OD-AP-OpenAging","url":"OD-AP-OpenAging"
+
+    },{
+
+      "name":"OD-AR-Aging","url":"OD-AR-Aging"
+
+    },{
+
+      "name":"OD-AR-Aging-ARNotes","url":"OD-AR-Aging-ARNotes"
+
+    },{
+
+      "name":"OD-ARInv","url":"OD-ARInv"
+
+    },{
+
+      "name":"OD-ARInvPayTrac","url":"OD-ARInvPayTrac"
+
+    },{
+
+      "name":"OD-BOO-SetupHrs","url":"OD-BOO-SetupHrs"
+
+    },{
+
+      "name":"OD-cmbSPerf01","url":"OD-cmbSPerf01"
+
+    },{
+
+      "name":"OD-cmbSPerf02","url":"OD-cmbSPerf02"
+
+    },{
+
+      "name":"OD-cmbSPerf03","url":"OD-cmbSPerf03"
+
+    },{
+
+      "name":"OD-CusPartCrossRef","url":"OD-CusPartCrossRef"
+
+    },{
+
+      "name":"OD-Customer-SC","url":"OD-Customer-SC"
+
+    },{
+
+      "name":"OD-DMT-Part-BOM","url":"OD-DMT-Part-BOM"
+
+    },{
+
+      "name":"OD-JobClosingQty","url":"OD-JobClosingQty"
+
+    },{
+
+      "name":"OD-JobHead","url":"OD-JobHead"
+
+    },{
+
+      "name":"OD-Job-Lab-Adjustment-DMT","url":"OD-Job-Lab-Adjustment-DMT"
+
+    },{
+
+      "name":"OD-JobLeadTime","url":"OD-JobLeadTime"
+
+    },{
+
+      "name":"OD-Job-List","url":"OD-Job-List"
+
+    },{
+
+      "name":"OD-Job-MtlOnWIP","url":"OD-Job-MtlOnWIP"
+
+    },{
+
+      "name":"OD-Job-MtlOnWIP-V2","url":"OD-Job-MtlOnWIP-V2"
+
+    },{
+
+      "name":"OD-JobOperation-DMT","url":"OD-JobOperation-DMT"
+
+    },{
+
+      "name":"OD-Job-Operations","url":"OD-Job-Operations"
+
+    },{
+
+      "name":"OD-JobOperVsShopLabor","url":"OD-JobOperVsShopLabor"
+
+    },{
+
+      "name":"OD-Job-PartRev","url":"OD-Job-PartRev"
+
+    },{
+
+      "name":"OD-JobProd-Delete","url":"OD-JobProd-Delete"
+
+    },{
+
+      "name":"ODJobsByResourceGroupCopy","url":"ODJobsByResourceGroupCopy"
+
+    },{
+
+      "name":"OD-Job-Scheduling-List","url":"OD-Job-Scheduling-List"
+
+    },{
+
+      "name":"OD-Job-Scheduling-List230126","url":"OD-Job-Scheduling-List230126"
+
+    },{
+
+      "name":"OD-JobScrapDetail","url":"OD-JobScrapDetail"
+
+    },{
+
+      "name":"OD-JobScrapSummary","url":"OD-JobScrapSummary"
+
+    },{
+
+      "name":"OD-JobSubAssemblySchedule","url":"OD-JobSubAssemblySchedule"
+
+    },{
+
+      "name":"OD-LaborDtl","url":"OD-LaborDtl"
+
+    },{
+
+      "name":"OD-LaborDtl-Scrap01-Detail","url":"OD-LaborDtl-Scrap01-Detail"
+
+    },{
+
+      "name":"OD-LaborDtl-Scrap01-Summary","url":"OD-LaborDtl-Scrap01-Summary"
+
+    },{
+
+      "name":"OD-Lab-SubCon-Adjustment-DMT","url":"OD-Lab-SubCon-Adjustment-DMT"
+
+    },{
+
+      "name":"OD-LstOpQty","url":"OD-LstOpQty"
+
+    },{
+
+      "name":"OD-MscShp","url":"OD-MscShp"
+
+    },{
+
+      "name":"OD-Operations-DMT","url":"OD-Operations-DMT"
+
+    },{
+
+      "name":"OD-OTDSummary","url":"OD-OTDSummary"
+
+    },{
+
+      "name":"OD-Part","url":"OD-Part"
+
+    },{
+
+      "name":"OD-PartBINALL","url":"OD-PartBINALL"
+
+    },{
+
+      "name":"OD-Part-BOM","url":"OD-Part-BOM"
+
+    },{
+
+      "name":"OD-Part-BOO","url":"OD-Part-BOO"
+
+    },{
+
+      "name":"OD-Part-BOO-DMT","url":"OD-Part-BOO-DMT"
+
+    },{
+
+      "name":"OD-Part-BOOTEST","url":"OD-Part-BOOTEST"
+
+    },{
+
+      "name":"OD-PartByEngineer","url":"OD-PartByEngineer"
+
+    },{
+
+      "name":"OD-Part-CertsScrap","url":"OD-Part-CertsScrap"
+
+    },{
+
+      "name":"OD-PartCost","url":"OD-PartCost"
+
+    },{
+
+      "name":"OD-Part-Cost-TMP","url":"OD-Part-Cost-TMP"
+
+    },{
+
+      "name":"OD-PartDescEspanolMexico","url":"OD-PartDescEspanolMexico"
+
+    },{
+
+      "name":"OD-PartEstCost","url":"OD-PartEstCost"
+
+    },{
+
+      "name":"OD-PartMetal","url":"OD-PartMetal"
+
+    },{
+
+      "name":"OD-Part-MOM","url":"OD-Part-MOM"
+
+    },{
+
+      "name":"OD-Part-PartClass-GLCtrl","url":"OD-Part-PartClass-GLCtrl"
+
+    },{
+
+      "name":"OD-Part-PPT","url":"OD-Part-PPT"
+
+    },{
+
+      "name":"OD-PartRev","url":"OD-PartRev"
+
+    },{
+
+      "name":"OD-Parts-Cost","url":"OD-Parts-Cost"
+
+    },{
+
+      "name":"OD-Part-Tools","url":"OD-Part-Tools"
+
+    },{
+
+      "name":"OD-PartTranEXP","url":"OD-PartTranEXP"
+
+    },{
+
+      "name":"OD-PartTranIMP","url":"OD-PartTranIMP"
+
+    },{
+
+      "name":"OD-PriceList-PartCrossRef","url":"OD-PriceList-PartCrossRef"
+
+    },{
+
+      "name":"OD-PurchaseOrder","url":"OD-PurchaseOrder"
+
+    },{
+
+      "name":"OD-Purchase-Receipts","url":"OD-Purchase-Receipts"
+
+    },{
+
+      "name":"OD-PurchaseRequisitions","url":"OD-PurchaseRequisitions"
+
+    },{
+
+      "name":"OD-PurchReq-Osmin","url":"OD-PurchReq-Osmin"
+
+    },{
+
+      "name":"OD-QuantityAdjustment-DMT","url":"OD-QuantityAdjustment-DMT"
+
+    },{
+
+      "name":"OD-Quote-Log","url":"OD-Quote-Log"
+
+    },{
+
+      "name":"OD-Quote-MfgDtl-Mtl","url":"OD-Quote-MfgDtl-Mtl"
+
+    },{
+
+      "name":"OD-Quote-MfgDtl-Ops","url":"OD-Quote-MfgDtl-Ops"
+
+    },{
+
+      "name":"OD-Receipts","url":"OD-Receipts"
+
+    },{
+
+      "name":"OD-Requisition","url":"OD-Requisition"
+
+    },{
+
+      "name":"OD-ResourceGroup","url":"OD-ResourceGroup"
+
+    },{
+
+      "name":"OD-ReviewRG","url":"OD-ReviewRG"
+
+    },{
+
+      "name":"OD-SalesBacklog","url":"OD-SalesBacklog"
+
+    },{
+
+      "name":"OD-SalesBacklog-BK240105","url":"OD-SalesBacklog-BK240105"
+
+    },{
+
+      "name":"OD-SalesBacklogMiscCh","url":"OD-SalesBacklogMiscCh"
+
+    },{
+
+      "name":"OD-Sales-Booking","url":"OD-Sales-Booking"
+
+    },{
+
+      "name":"OD-SalesBookings","url":"OD-SalesBookings"
+
+    },{
+
+      "name":"OD-SalesHistory","url":"OD-SalesHistory"
+
+    },{
+
+      "name":"OD-SalesHistory-BK240105","url":"OD-SalesHistory-BK240105"
+
+    },{
+
+      "name":"OD-SalesHistorySCDetail","url":"OD-SalesHistorySCDetail"
+
+    },{
+
+      "name":"OD-SalesOrders","url":"OD-SalesOrders"
+
+    },{
+
+      "name":"OD-Scr-01","url":"OD-Scr-01"
+
+    },{
+
+      "name":"OD-Scrap0100","url":"OD-Scrap0100"
+
+    },{
+
+      "name":"OD-Scrap0101","url":"OD-Scrap0101"
+
+    },{
+
+      "name":"OD-Scrap0200","url":"OD-Scrap0200"
+
+    },{
+
+      "name":"OD-Scrap0201","url":"OD-Scrap0201"
+
+    },{
+
+      "name":"OD-Scrap0300","url":"OD-Scrap0300"
+
+    },{
+
+      "name":"OD-Scrap9999-PriceList","url":"OD-Scrap9999-PriceList"
+
+    },{
+
+      "name":"OD-ScrapByReason","url":"OD-ScrapByReason"
+
+    },{
+
+      "name":"OD-ScrapLaborDtl-ScrDtl","url":"OD-ScrapLaborDtl-ScrDtl"
+
+    },{
+
+      "name":"OD-Scrap-Rpt","url":"OD-Scrap-Rpt"
+
+    },{
+
+      "name":"OD-Scr-TMP-1","url":"OD-Scr-TMP-1"
+
+    },{
+
+      "name":"OD-ShipHead","url":"OD-ShipHead"
+
+    },{
+
+      "name":"OD-ShipHeadSC","url":"OD-ShipHeadSC"
+
+    },{
+
+      "name":"OD-ShopLabordDtl-Temporal","url":"OD-ShopLabordDtl-Temporal"
+
+    },{
+
+      "name":"OD-ShopLaborDtl","url":"OD-ShopLaborDtl"
+
+    },{
+
+      "name":"OD-ShopLaborDtlScr","url":"OD-ShopLaborDtlScr"
+
+    },{
+
+      "name":"OD-SOShip","url":"OD-SOShip"
+
+    },{
+
+      "name":"OD-SubShip","url":"OD-SubShip"
+
+    },{
+
+      "name":"OD-Supplier","url":"OD-Supplier"
+
+    },{
+
+      "name":"OD-Supplier-App","url":"OD-Supplier-App"
+
+    },{
+
+      "name":"OD-SupplierPerformance","url":"OD-SupplierPerformance"
+
+    },{
+
+      "name":"OD-Surch-PartBOM","url":"OD-Surch-PartBOM"
+
+    },{
+
+      "name":"OD-Surch-PartBOMDet","url":"OD-Surch-PartBOMDet"
+
+    },{
+
+      "name":"OD-TechCard-Int-Part","url":"OD-TechCard-Int-Part"
+
+    },{
+
+      "name":"OD-TempLog","url":"OD-TempLog"
+
+    },{
+
+      "name":"OD-Tooling-Report","url":"OD-Tooling-Report"
+
+    },{
+
+      "name":"OD-TranType_Partstostock","url":"OD-TranType_Partstostock"
+
+    },{
+
+      "name":"OD-Who-is-here","url":"OD-Who-is-here"
+
+    },{
+
+      "name":"OD-X","url":"OD-X"
+
+    },{
+
+      "name":"OD-Z-JobPart","url":"OD-Z-JobPart"
+
+    },{
+
+      "name":"OD-Z-Part","url":"OD-Z-Part"
+
+    },{
+
+      "name":"OD-Z-RcvDtl","url":"OD-Z-RcvDtl"
+
+    },{
+
+      "name":"OD-Z-ShopLaborE","url":"OD-Z-ShopLaborE"
+
+    },{
+
+      "name":"OD-zzz-CustomerGC","url":"OD-zzz-CustomerGC"
+
+    },{
+
+      "name":"OD-ZZZ-Invoice","url":"OD-ZZZ-Invoice"
+
+    },{
+
+      "name":"OD-ZZZ-JobHead","url":"OD-ZZZ-JobHead"
+
+    },{
+
+      "name":"rbicActiveJobs","url":"rbicActiveJobs"
+
+    },{
+
+      "name":"rbicPastDueSO","url":"rbicPastDueSO"
+
+    },{
+
+      "name":"rbicRcvInq","url":"rbicRcvInq"
+
+    },{
+
+      "name":"rcbARAging","url":"rcbARAging"
+
+    },{
+
+      "name":"rcbCostSheet","url":"rcbCostSheet"
+
+    },{
+
+      "name":"rcbCustShip","url":"rcbCustShip"
+
+    },{
+
+      "name":"rcbDMTCostAdjTmplt","url":"rcbDMTCostAdjTmplt"
+
+    },{
+
+      "name":"rcbDMTInvAdjTmplt","url":"rcbDMTInvAdjTmplt"
+
+    },{
+
+      "name":"rcbIntTest","url":"rcbIntTest"
+
+    },{
+
+      "name":"rcbJobCmtsRvw","url":"rcbJobCmtsRvw"
+
+    },{
+
+      "name":"rcbJobComments","url":"rcbJobComments"
+
+    },{
+
+      "name":"rcbJobCstMtls","url":"rcbJobCstMtls"
+
+    },{
+
+      "name":"rcbJobCstOps","url":"rcbJobCstOps"
+
+    },{
+
+      "name":"rcbLaborUpdate","url":"rcbLaborUpdate"
+
+    },{
+
+      "name":"rcbOnTimeDel","url":"rcbOnTimeDel"
+
+    },{
+
+      "name":"rcbPartTran","url":"rcbPartTran"
+
+    },{
+
+      "name":"rcbPositivePaySCA","url":"rcbPositivePaySCA"
+
+    },{
+
+      "name":"rcbScrapCostPerOp","url":"rcbScrapCostPerOp"
+
+    },{
+
+      "name":"rcbTest1","url":"rcbTest1"
+
+    },{
+
+      "name":"rcbTest2","url":"rcbTest2"
+
+    },{
+
+      "name":"rcbTest3","url":"rcbTest3"
+
+    },{
+
+      "name":"rcbTest4","url":"rcbTest4"
+
+    },{
+
+      "name":"rcbTest5","url":"rcbTest5"
+
+    },{
+
+      "name":"rcbTestCerChk","url":"rcbTestCerChk"
+
+    },{
+
+      "name":"rcbTestScrapLbrBdnCost","url":"rcbTestScrapLbrBdnCost"
+
+    },{
+
+      "name":"rcbTestScrapLbrBdnMtlCost","url":"rcbTestScrapLbrBdnMtlCost"
+
+    },{
+
+      "name":"rcbTestSOShp","url":"rcbTestSOShp"
+
+    },{
+
+      "name":"rcbWIPTest","url":"rcbWIPTest"
+
+    },{
+
+      "name":"SubCPackOSMIN","url":"SubCPackOSMIN"
+
+    },{
+
+      "name":"rcbJobOpTest","url":"rcbJobOpTest"
+
+    },{
+
+      "name":"rcbPartCosts","url":"rcbPartCosts"
+
+    },{
+
+      "name":"rcbTestWIPTraveler","url":"rcbTestWIPTraveler"
+
+    },{
+
+      "name":"ASEPTICO-GL Control Code List","url":"ASEPTICO-GL%20Control%20Code%20List"
+
+    },{
+
+      "name":"clz_AccessInvoiceXRef","url":"clz_AccessInvoiceXRef"
+
+    },{
+
+      "name":"clzHistoricalStockStatus","url":"clzHistoricalStockStatus"
+
+    },{
+
+      "name":"clzJobActivityChange","url":"clzJobActivityChange"
+
+    },{
+
+      "name":"clzJobsWSalvage","url":"clzJobsWSalvage"
+
+    },{
+
+      "name":"clzJobsWSalvage_exceptions","url":"clzJobsWSalvage_exceptions"
+
+    },{
+
+      "name":"clzMaxARInvoiceNum","url":"clzMaxARInvoiceNum"
+
+    },{
+
+      "name":"clzMRBInventory","url":"clzMRBInventory"
+
+    },{
+
+      "name":"clzNewEmp","url":"clzNewEmp"
+
+    },{
+
+      "name":"clzPartWIP","url":"clzPartWIP"
+
+    },{
+
+      "name":"clzSalvageTracking","url":"clzSalvageTracking"
+
+    },{
+
+      "name":"GLCLinksForGLControls","url":"GLCLinksForGLControls"
+
+    },{
+
+      "name":"MTPP-EmpTimesheet","url":"MTPP-EmpTimesheet"
+
+    },{
+
+      "name":"MTPP-LaborDetail","url":"MTPP-LaborDetail"
+
+    },{
+
+      "name":"MTPP-ThroughputOutputRpt2","url":"MTPP-ThroughputOutputRpt2"
+
+    },{
+
+      "name":"MTPP-wsLossesV3","url":"MTPP-wsLossesV3"
+
+    },{
+
+      "name":"OD-AccessDataImport","url":"OD-AccessDataImport"
+
+    },{
+
+      "name":"OD-Access-OrdersDetailsTbl","url":"OD-Access-OrdersDetailsTbl"
+
+    },{
+
+      "name":"OD-Access-OrdersTbl","url":"OD-Access-OrdersTbl"
+
+    },{
+
+      "name":"OD-cmbCOCSigners","url":"OD-cmbCOCSigners"
+
+    },{
+
+      "name":"OD-cmbWarehouse","url":"OD-cmbWarehouse"
+
+    },{
+
+      "name":"OD-DMT-02-Open-SalesOrderDetai","url":"OD-DMT-02-Open-SalesOrderDetai"
+
+    },{
+
+      "name":"OD-Job-Operations-SEA-Rev","url":"OD-Job-Operations-SEA-Rev"
+
+    },{
+
+      "name":"OD-KanbanTbl-Delete","url":"OD-KanbanTbl-Delete"
+
+    },{
+
+      "name":"OD-MaterialSpec-Search","url":"OD-MaterialSpec-Search"
+
+    },{
+
+      "name":"OD-Operation","url":"OD-Operation"
+
+    },{
+
+      "name":"OD-PackSlipCoC","url":"OD-PackSlipCoC"
+
+    },{
+
+      "name":"OD-PackSlipCoC-BK","url":"OD-PackSlipCoC-BK"
+
+    },{
+
+      "name":"OD-PartBIN","url":"OD-PartBIN"
+
+    },{
+
+      "name":"OD-PartCoCTxt","url":"OD-PartCoCTxt"
+
+    },{
+
+      "name":"OD-PartPPT","url":"OD-PartPPT"
+
+    },{
+
+      "name":"OD-Parts-Delete","url":"OD-Parts-Delete"
+
+    },{
+
+      "name":"OD-PartWhse","url":"OD-PartWhse"
+
+    },{
+
+      "name":"OD-rcbADPExpFileWLunch-Copy","url":"OD-rcbADPExpFileWLunch-Copy"
+
+    },{
+
+      "name":"OD-SalesOrderXPartnRev","url":"OD-SalesOrderXPartnRev"
+
+    },{
+
+      "name":"OD-SCI-DMT-SO01-Header","url":"OD-SCI-DMT-SO01-Header"
+
+    },{
+
+      "name":"OD-SCI-DMT-SO02-Detail","url":"OD-SCI-DMT-SO02-Detail"
+
+    },{
+
+      "name":"OD-SCI-DMT-SO03-Release","url":"OD-SCI-DMT-SO03-Release"
+
+    },{
+
+      "name":"oD-z","url":"oD-z"
+
+    },{
+
+      "name":"rbPastDueSO","url":"rbPastDueSO"
+
+    },{
+
+      "name":"rbsiSchShpRpt","url":"rbsiSchShpRpt"
+
+    },{
+
+      "name":"rcb12AVsENoHorz","url":"rcb12AVsENoHorz"
+
+    },{
+
+      "name":"rcb12MnthActVsErnHrs","url":"rcb12MnthActVsErnHrs"
+
+    },{
+
+      "name":"rcb12MoOTD","url":"rcb12MoOTD"
+
+    },{
+
+      "name":"rcb12MoPastDue","url":"rcb12MoPastDue"
+
+    },{
+
+      "name":"rcb12MoScToSls","url":"rcb12MoScToSls"
+
+    },{
+
+      "name":"rcb12MoShipVsDmdExport","url":"rcb12MoShipVsDmdExport"
+
+    },{
+
+      "name":"rcbAbsEarnClockIn","url":"rcbAbsEarnClockIn"
+
+    },{
+
+      "name":"rcbAbsEarnPayroll","url":"rcbAbsEarnPayroll"
+
+    },{
+
+      "name":"rcbAbsEarnRpt","url":"rcbAbsEarnRpt"
+
+    },{
+
+      "name":"rcbAbsEarnSumRpt","url":"rcbAbsEarnSumRpt"
+
+    },{
+
+      "name":"rcbActEmpPhotos","url":"rcbActEmpPhotos"
+
+    },{
+
+      "name":"rcbActEmpSearch","url":"rcbActEmpSearch"
+
+    },{
+
+      "name":"rcbActiveEmpAllCo","url":"rcbActiveEmpAllCo"
+
+    },{
+
+      "name":"rcbActiveEmployees","url":"rcbActiveEmployees"
+
+    },{
+
+      "name":"rcbActiveInspectors","url":"rcbActiveInspectors"
+
+    },{
+
+      "name":"rcbActiveJobs","url":"rcbActiveJobs"
+
+    },{
+
+      "name":"rcbActivePrtsLst","url":"rcbActivePrtsLst"
+
+    },{
+
+      "name":"rcbActvsErnRGrp","url":"rcbActvsErnRGrp"
+
+    },{
+
+      "name":"rcbADPExpFileWLunch","url":"rcbADPExpFileWLunch"
+
+    },{
+
+      "name":"rcbADPExportFile","url":"rcbADPExportFile"
+
+    },{
+
+      "name":"rcbADPExpRpt","url":"rcbADPExpRpt"
+
+    },{
+
+      "name":"rcbADPHrsRvw","url":"rcbADPHrsRvw"
+
+    },{
+
+      "name":"rcbARAging1","url":"rcbARAging1"
+
+    },{
+
+      "name":"rcbARAgingDB","url":"rcbARAgingDB"
+
+    },{
+
+      "name":"rcbARInvByDate","url":"rcbARInvByDate"
+
+    },{
+
+      "name":"rcbARInvByDateDtl","url":"rcbARInvByDateDtl"
+
+    },{
+
+      "name":"rcbARInvToCsh","url":"rcbARInvToCsh"
+
+    },{
+
+      "name":"rcbAROpInvDtl","url":"rcbAROpInvDtl"
+
+    },{
+
+      "name":"rcbAROpInvHed","url":"rcbAROpInvHed"
+
+    },{
+
+      "name":"rcbAROpInvRpt","url":"rcbAROpInvRpt"
+
+    },{
+
+      "name":"rcbAvailableToShip","url":"rcbAvailableToShip"
+
+    },{
+
+      "name":"rcbBAQList","url":"rcbBAQList"
+
+    },{
+
+      "name":"rcbBAQRpts","url":"rcbBAQRpts"
+
+    },{
+
+      "name":"rcbBlanketPOExpDates","url":"rcbBlanketPOExpDates"
+
+    },{
+
+      "name":"rcbBPMDirectives","url":"rcbBPMDirectives"
+
+    },{
+
+      "name":"rcbCboMfgEngineer","url":"rcbCboMfgEngineer"
+
+    },{
+
+      "name":"rcbCboPrgmManager","url":"rcbCboPrgmManager"
+
+    },{
+
+      "name":"rcbCboQualEngineer","url":"rcbCboQualEngineer"
+
+    },{
+
+      "name":"rcbCboSales","url":"rcbCboSales"
+
+    },{
+
+      "name":"rcbClockOutCheck","url":"rcbClockOutCheck"
+
+    },{
+
+      "name":"rcbClosedDMRSearch","url":"rcbClosedDMRSearch"
+
+    },{
+
+      "name":"rcbCofC","url":"rcbCofC"
+
+    },{
+
+      "name":"rcbComboTest","url":"rcbComboTest"
+
+    },{
+
+      "name":"rcbContRev","url":"rcbContRev"
+
+    },{
+
+      "name":"rcbControlToGL","url":"rcbControlToGL"
+
+    },{
+
+      "name":"rcbCurrJobOp","url":"rcbCurrJobOp"
+
+    },{
+
+      "name":"rcbCurrWkPO","url":"rcbCurrWkPO"
+
+    },{
+
+      "name":"rcbCustEmgcyNum","url":"rcbCustEmgcyNum"
+
+    },{
+
+      "name":"rcbCustIDList","url":"rcbCustIDList"
+
+    },{
+
+      "name":"rcbCustList","url":"rcbCustList"
+
+    },{
+
+      "name":"rcbCustomFieldList","url":"rcbCustomFieldList"
+
+    },{
+
+      "name":"rcbCustomForms","url":"rcbCustomForms"
+
+    },{
+
+      "name":"rcbCustShpByPrt","url":"rcbCustShpByPrt"
+
+    },{
+
+      "name":"rcbCustShpMnth","url":"rcbCustShpMnth"
+
+    },{
+
+      "name":"rcbCustXPartDuplicates","url":"rcbCustXPartDuplicates"
+
+    },{
+
+      "name":"rcbCustXPrt","url":"rcbCustXPrt"
+
+    },{
+
+      "name":"rcbDailyShipments","url":"rcbDailyShipments"
+
+    },{
+
+      "name":"rcbDateSensMat","url":"rcbDateSensMat"
+
+    },{
+
+      "name":"rcbDemandCaptureFMO","url":"rcbDemandCaptureFMO"
+
+    },{
+
+      "name":"rcbDeptToResGrpToOp","url":"rcbDeptToResGrpToOp"
+
+    },{
+
+      "name":"rcbDispatch","url":"rcbDispatch"
+
+    },{
+
+      "name":"rcbDispatchCurr","url":"rcbDispatchCurr"
+
+    },{
+
+      "name":"rcbDispatchDMR","url":"rcbDispatchDMR"
+
+    },{
+
+      "name":"rcbDispatchRpt","url":"rcbDispatchRpt"
+
+    },{
+
+      "name":"rcbDispatchSCI","url":"rcbDispatchSCI"
+
+    },{
+
+      "name":"rcbDMRAction","url":"rcbDMRAction"
+
+    },{
+
+      "name":"rcbDMRActn","url":"rcbDMRActn"
+
+    },{
+
+      "name":"rcbDMRActnRpt","url":"rcbDMRActnRpt"
+
+    },{
+
+      "name":"rcbDMRLabel","url":"rcbDMRLabel"
+
+    },{
+
+      "name":"rcbDmrMrbActRpt","url":"rcbDmrMrbActRpt"
+
+    },{
+
+      "name":"rcbDMRRejRpt","url":"rcbDMRRejRpt"
+
+    },{
+
+      "name":"rcbDMRReport","url":"rcbDMRReport"
+
+    },{
+
+      "name":"rcbDMTCompleteOp","url":"rcbDMTCompleteOp"
+
+    },{
+
+      "name":"rcbDMTCompleteSubOp","url":"rcbDMTCompleteSubOp"
+
+    },{
+
+      "name":"rcbDMTLeadTime","url":"rcbDMTLeadTime"
+
+    },{
+
+      "name":"rcbDMTSupPrcLst","url":"rcbDMTSupPrcLst"
+
+    },{
+
+      "name":"rcbDueDtAftReqDt","url":"rcbDueDtAftReqDt"
+
+    },{
+
+      "name":"rcbEarnVsAct","url":"rcbEarnVsAct"
+
+    },{
+
+      "name":"rcbEcoMthdRvw","url":"rcbEcoMthdRvw"
+
+    },{
+
+      "name":"rcbEmpClkTmes","url":"rcbEmpClkTmes"
+
+    },{
+
+      "name":"rcbEmpCourseRecord","url":"rcbEmpCourseRecord"
+
+    },{
+
+      "name":"rcbEmpHrs","url":"rcbEmpHrs"
+
+    },{
+
+      "name":"rcbEmpHrsByDate","url":"rcbEmpHrsByDate"
+
+    },{
+
+      "name":"rcbEmpHrsRpt","url":"rcbEmpHrsRpt"
+
+    },{
+
+      "name":"rcbEmpHrsRvw","url":"rcbEmpHrsRvw"
+
+    },{
+
+      "name":"rcbEmpIDBC","url":"rcbEmpIDBC"
+
+    },{
+
+      "name":"rcbEmpImageCheck","url":"rcbEmpImageCheck"
+
+    },{
+
+      "name":"rcbEmpSearch","url":"rcbEmpSearch"
+
+    },{
+
+      "name":"rcbEmpTotalHrs1Wk","url":"rcbEmpTotalHrs1Wk"
+
+    },{
+
+      "name":"rcbEmpTrnRpt","url":"rcbEmpTrnRpt"
+
+    },{
+
+      "name":"rcbEmpUpdate","url":"rcbEmpUpdate"
+
+    },{
+
+      "name":"rcbEngineerList","url":"rcbEngineerList"
+
+    },{
+
+      "name":"rcbEquipJobCosts","url":"rcbEquipJobCosts"
+
+    },{
+
+      "name":"rcbEquipment","url":"rcbEquipment"
+
+    },{
+
+      "name":"rcbEstVsActByStDt","url":"rcbEstVsActByStDt"
+
+    },{
+
+      "name":"rcbEstVsActProd","url":"rcbEstVsActProd"
+
+    },{
+
+      "name":"rcbEstVsActRpt","url":"rcbEstVsActRpt"
+
+    },{
+
+      "name":"rcbExportCustomer","url":"rcbExportCustomer"
+
+    },{
+
+      "name":"rcbExportDMRActn","url":"rcbExportDMRActn"
+
+    },{
+
+      "name":"rcbExportDMRHead","url":"rcbExportDMRHead"
+
+    },{
+
+      "name":"rcbExportEmpBasic","url":"rcbExportEmpBasic"
+
+    },{
+
+      "name":"rcbExportHereAndActive","url":"rcbExportHereAndActive"
+
+    },{
+
+      "name":"rcbExportJobHead","url":"rcbExportJobHead"
+
+    },{
+
+      "name":"rcbExportJobOpDtl","url":"rcbExportJobOpDtl"
+
+    },{
+
+      "name":"rcbExportJobOper","url":"rcbExportJobOper"
+
+    },{
+
+      "name":"rcbExportKPICompany","url":"rcbExportKPICompany"
+
+    },{
+
+      "name":"rcbExportKPIDMRActn","url":"rcbExportKPIDMRActn"
+
+    },{
+
+      "name":"rcbExportKPIDMRHead","url":"rcbExportKPIDMRHead"
+
+    },{
+
+      "name":"rcbExportKPIEmpBasic","url":"rcbExportKPIEmpBasic"
+
+    },{
+
+      "name":"rcbExportKPIEntityGLC","url":"rcbExportKPIEntityGLC"
+
+    },{
+
+      "name":"rcbExportKPIInvcDtl","url":"rcbExportKPIInvcDtl"
+
+    },{
+
+      "name":"rcbExportKPIInvcHead","url":"rcbExportKPIInvcHead"
+
+    },{
+
+      "name":"rcbExportKPIJobHead","url":"rcbExportKPIJobHead"
+
+    },{
+
+      "name":"rcbExportKPIJobOpDtl","url":"rcbExportKPIJobOpDtl"
+
+    },{
+
+      "name":"rcbExportKPIJobOper","url":"rcbExportKPIJobOper"
+
+    },{
+
+      "name":"rcbExportKPILaborDtl","url":"rcbExportKPILaborDtl"
+
+    },{
+
+      "name":"rcbExportKPINonConf","url":"rcbExportKPINonConf"
+
+    },{
+
+      "name":"rcbExportKPIOrderDtl","url":"rcbExportKPIOrderDtl"
+
+    },{
+
+      "name":"rcbExportKPIOrderMsc","url":"rcbExportKPIOrderMsc"
+
+    },{
+
+      "name":"rcbExportKPIOrderRel","url":"rcbExportKPIOrderRel"
+
+    },{
+
+      "name":"rcbExportKPIPartTran","url":"rcbExportKPIPartTran"
+
+    },{
+
+      "name":"rcbExportKPIReason","url":"rcbExportKPIReason"
+
+    },{
+
+      "name":"rcbExportKPIShipDtl","url":"rcbExportKPIShipDtl"
+
+    },{
+
+      "name":"rcbExportKPIShipHead","url":"rcbExportKPIShipHead"
+
+    },{
+
+      "name":"rcbExportKPIUD04","url":"rcbExportKPIUD04"
+
+    },{
+
+      "name":"rcbExportKPIUD13","url":"rcbExportKPIUD13"
+
+    },{
+
+      "name":"rcbExportLaborDtl","url":"rcbExportLaborDtl"
+
+    },{
+
+      "name":"rcbExportLTAOrders","url":"rcbExportLTAOrders"
+
+    },{
+
+      "name":"rcbExportPart","url":"rcbExportPart"
+
+    },{
+
+      "name":"rcbExportPartMtl","url":"rcbExportPartMtl"
+
+    },{
+
+      "name":"rcbExportPartRev","url":"rcbExportPartRev"
+
+    },{
+
+      "name":"rcbExportPOLastCost","url":"rcbExportPOLastCost"
+
+    },{
+
+      "name":"rcbExportTimePhaseData","url":"rcbExportTimePhaseData"
+
+    },{
+
+      "name":"rcbExtList","url":"rcbExtList"
+
+    },{
+
+      "name":"rcbFinalPartMtlStatus","url":"rcbFinalPartMtlStatus"
+
+    },{
+
+      "name":"rcbFinPartsList","url":"rcbFinPartsList"
+
+    },{
+
+      "name":"rcbFinPrtLst","url":"rcbFinPrtLst"
+
+    },{
+
+      "name":"rcbFinSellPrice","url":"rcbFinSellPrice"
+
+    },{
+
+      "name":"rcbGLAccounts","url":"rcbGLAccounts"
+
+    },{
+
+      "name":"rcbGLAcct","url":"rcbGLAcct"
+
+    },{
+
+      "name":"rcbGLAcctReview","url":"rcbGLAcctReview"
+
+    },{
+
+      "name":"rcbHereAndActv","url":"rcbHereAndActv"
+
+    },{
+
+      "name":"rcbHereAndActvDsh","url":"rcbHereAndActvDsh"
+
+    },{
+
+      "name":"rcbIDITimebankExport","url":"rcbIDITimebankExport"
+
+    },{
+
+      "name":"rcbIndChtSht","url":"rcbIndChtSht"
+
+    },{
+
+      "name":"rcbIndLbrToGL","url":"rcbIndLbrToGL"
+
+    },{
+
+      "name":"rcbINSPFPFinalOp","url":"rcbINSPFPFinalOp"
+
+    },{
+
+      "name":"rcbInternalPartXRef","url":"rcbInternalPartXRef"
+
+    },{
+
+      "name":"rcbInvShpByPart","url":"rcbInvShpByPart"
+
+    },{
+
+      "name":"rcbJCDept","url":"rcbJCDept"
+
+    },{
+
+      "name":"rcbJCDeptToGL","url":"rcbJCDeptToGL"
+
+    },{
+
+      "name":"rcbJobBomRemQtys","url":"rcbJobBomRemQtys"
+
+    },{
+
+      "name":"rcbJobCommentsK","url":"rcbJobCommentsK"
+
+    },{
+
+      "name":"rcbJobCostEstVsAct","url":"rcbJobCostEstVsAct"
+
+    },{
+
+      "name":"rcbJobCostReview","url":"rcbJobCostReview"
+
+    },{
+
+      "name":"rcbJobCosts","url":"rcbJobCosts"
+
+    },{
+
+      "name":"rcbJobCostsByDate","url":"rcbJobCostsByDate"
+
+    },{
+
+      "name":"rcbJobDemandPur","url":"rcbJobDemandPur"
+
+    },{
+
+      "name":"rcbJobLbrAdj","url":"rcbJobLbrAdj"
+
+    },{
+
+      "name":"rcbJobLbrAdjStd","url":"rcbJobLbrAdjStd"
+
+    },{
+
+      "name":"rcbJobLbrDtl","url":"rcbJobLbrDtl"
+
+    },{
+
+      "name":"rcbJobMtlChk","url":"rcbJobMtlChk"
+
+    },{
+
+      "name":"rcbJobMtlChkTrns","url":"rcbJobMtlChkTrns"
+
+    },{
+
+      "name":"rcbJobMtlCosts","url":"rcbJobMtlCosts"
+
+    },{
+
+      "name":"rcbJobMtlSply","url":"rcbJobMtlSply"
+
+    },{
+
+      "name":"rcbJobOpsOutSeq","url":"rcbJobOpsOutSeq"
+
+    },{
+
+      "name":"rcbJobPartTran","url":"rcbJobPartTran"
+
+    },{
+
+      "name":"rcbJobQtyShortage","url":"rcbJobQtyShortage"
+
+    },{
+
+      "name":"rcbJobRwkAdd","url":"rcbJobRwkAdd"
+
+    },{
+
+      "name":"rcbJobsByResourceGroup","url":"rcbJobsByResourceGroup"
+
+    },{
+
+      "name":"rcbJobsClosed","url":"rcbJobsClosed"
+
+    },{
+
+      "name":"rcbJobsClosedtoGL","url":"rcbJobsClosedtoGL"
+
+    },{
+
+      "name":"rcbJobsNotStarted","url":"rcbJobsNotStarted"
+
+    },{
+
+      "name":"rcbJobStatChart","url":"rcbJobStatChart"
+
+    },{
+
+      "name":"rcbJobStatChrt2","url":"rcbJobStatChrt2"
+
+    },{
+
+      "name":"rcbJobStatChrt3","url":"rcbJobStatChrt3"
+
+    },{
+
+      "name":"rcbJobStatus","url":"rcbJobStatus"
+
+    },{
+
+      "name":"rcbJobStdUpd","url":"rcbJobStdUpd"
+
+    },{
+
+      "name":"rcbJobsToPrint","url":"rcbJobsToPrint"
+
+    },{
+
+      "name":"rcbJobsWOFinalOp","url":"rcbJobsWOFinalOp"
+
+    },{
+
+      "name":"rcbJobTravRcrd","url":"rcbJobTravRcrd"
+
+    },{
+
+      "name":"rcbJobTravWIP","url":"rcbJobTravWIP"
+
+    },{
+
+      "name":"rcbLaborDetail","url":"rcbLaborDetail"
+
+    },{
+
+      "name":"rcbLaborDetailJobCosts","url":"rcbLaborDetailJobCosts"
+
+    },{
+
+      "name":"rcbLaborDetailJobs","url":"rcbLaborDetailJobs"
+
+    },{
+
+      "name":"rcbLaborStatus","url":"rcbLaborStatus"
+
+    },{
+
+      "name":"rcbLaborUpdateAllco","url":"rcbLaborUpdateAllco"
+
+    },{
+
+      "name":"rcbLastOpQtyChk","url":"rcbLastOpQtyChk"
+
+    },{
+
+      "name":"rcbLbrEntNotApp","url":"rcbLbrEntNotApp"
+
+    },{
+
+      "name":"rcbLbrHrsByResGrp","url":"rcbLbrHrsByResGrp"
+
+    },{
+
+      "name":"rcbLobbyGuardImport","url":"rcbLobbyGuardImport"
+
+    },{
+
+      "name":"rcbLstOpDsptch","url":"rcbLstOpDsptch"
+
+    },{
+
+      "name":"rcbLstOpQty","url":"rcbLstOpQty"
+
+    },{
+
+      "name":"rcbLTAMtls","url":"rcbLTAMtls"
+
+    },{
+
+      "name":"rcbLTARpt","url":"rcbLTARpt"
+
+    },{
+
+      "name":"rcbLunchClockCheck","url":"rcbLunchClockCheck"
+
+    },{
+
+      "name":"rcbMaintDispDtl","url":"rcbMaintDispDtl"
+
+    },{
+
+      "name":"rcbMaintDispHdr","url":"rcbMaintDispHdr"
+
+    },{
+
+      "name":"rcbMaintDispHdrRel","url":"rcbMaintDispHdrRel"
+
+    },{
+
+      "name":"rcbManufacturedParts","url":"rcbManufacturedParts"
+
+    },{
+
+      "name":"rcbMasterDataBOM","url":"rcbMasterDataBOM"
+
+    },{
+
+      "name":"rcbMasterDataBOO","url":"rcbMasterDataBOO"
+
+    },{
+
+      "name":"rcbMasterDataBuyer","url":"rcbMasterDataBuyer"
+
+    },{
+
+      "name":"rcbMasterDataBuyerAuth","url":"rcbMasterDataBuyerAuth"
+
+    },{
+
+      "name":"rcbMasterDataCarrier","url":"rcbMasterDataCarrier"
+
+    },{
+
+      "name":"rcbMasterDataCountry","url":"rcbMasterDataCountry"
+
+    },{
+
+      "name":"rcbMasterDataCurrency","url":"rcbMasterDataCurrency"
+
+    },{
+
+      "name":"rcbMasterDataCustContact","url":"rcbMasterDataCustContact"
+
+    },{
+
+      "name":"rcbMasterDataCustGrp","url":"rcbMasterDataCustGrp"
+
+    },{
+
+      "name":"rcbMasterDataCustomer","url":"rcbMasterDataCustomer"
+
+    },{
+
+      "name":"rcbMasterDataCustShipTo","url":"rcbMasterDataCustShipTo"
+
+    },{
+
+      "name":"rcbMasterDataDept","url":"rcbMasterDataDept"
+
+    },{
+
+      "name":"rcbMasterDataEmp","url":"rcbMasterDataEmp"
+
+    },{
+
+      "name":"rcbMasterDataEquipLoc","url":"rcbMasterDataEquipLoc"
+
+    },{
+
+      "name":"rcbMasterDataEquipment","url":"rcbMasterDataEquipment"
+
+    },{
+
+      "name":"rcbMasterDataEquipPlan","url":"rcbMasterDataEquipPlan"
+
+    },{
+
+      "name":"rcbMasterDataEquipStatus","url":"rcbMasterDataEquipStatus"
+
+    },{
+
+      "name":"rcbMasterDataEquipType","url":"rcbMasterDataEquipType"
+
+    },{
+
+      "name":"rcbMasterDataGLCntrl","url":"rcbMasterDataGLCntrl"
+
+    },{
+
+      "name":"rcbMasterDataIndirect","url":"rcbMasterDataIndirect"
+
+    },{
+
+      "name":"rcbMasterDataJobMtl","url":"rcbMasterDataJobMtl"
+
+    },{
+
+      "name":"rcbMasterDataLbrExpCd","url":"rcbMasterDataLbrExpCd"
+
+    },{
+
+      "name":"rcbMasterDataMaintJobHead","url":"rcbMasterDataMaintJobHead"
+
+    },{
+
+      "name":"rcbMasterDataMaintJobOp","url":"rcbMasterDataMaintJobOp"
+
+    },{
+
+      "name":"rcbMasterDataMaintOps","url":"rcbMasterDataMaintOps"
+
+    },{
+
+      "name":"rcbMasterDataMaintResGroup","url":"rcbMasterDataMaintResGroup"
+
+    },{
+
+      "name":"rcbMasterDataMiscChrgPurch","url":"rcbMasterDataMiscChrgPurch"
+
+    },{
+
+      "name":"rcbMasterDataOperation","url":"rcbMasterDataOperation"
+
+    },{
+
+      "name":"rcbMasterDataPart","url":"rcbMasterDataPart"
+
+    },{
+
+      "name":"rcbMasterDataPartClass","url":"rcbMasterDataPartClass"
+
+    },{
+
+      "name":"rcbMasterDataPartCombo","url":"rcbMasterDataPartCombo"
+
+    },{
+
+      "name":"rcbMasterDataPartPlant","url":"rcbMasterDataPartPlant"
+
+    },{
+
+      "name":"rcbMasterDataPartRev","url":"rcbMasterDataPartRev"
+
+    },{
+
+      "name":"rcbMasterDataProdGrp","url":"rcbMasterDataProdGrp"
+
+    },{
+
+      "name":"rcbMasterDataPurTerms","url":"rcbMasterDataPurTerms"
+
+    },{
+
+      "name":"rcbMasterDataReason","url":"rcbMasterDataReason"
+
+    },{
+
+      "name":"rcbMasterDataResGrp","url":"rcbMasterDataResGrp"
+
+    },{
+
+      "name":"rcbMasterDataShift","url":"rcbMasterDataShift"
+
+    },{
+
+      "name":"rcbMasterDataShipVia","url":"rcbMasterDataShipVia"
+
+    },{
+
+      "name":"rcbMasterDataSupplier","url":"rcbMasterDataSupplier"
+
+    },{
+
+      "name":"rcbMasterDataSupplierGrp","url":"rcbMasterDataSupplierGrp"
+
+    },{
+
+      "name":"rcbMasterDataTerms","url":"rcbMasterDataTerms"
+
+    },{
+
+      "name":"rcbMasterDataTopic","url":"rcbMasterDataTopic"
+
+    },{
+
+      "name":"rcbMasterDataTopicChildren","url":"rcbMasterDataTopicChildren"
+
+    },{
+
+      "name":"rcbMasterDataUOM","url":"rcbMasterDataUOM"
+
+    },{
+
+      "name":"rcbMasterDataUOMClass","url":"rcbMasterDataUOMClass"
+
+    },{
+
+      "name":"rcbMasterDataWhseBin","url":"rcbMasterDataWhseBin"
+
+    },{
+
+      "name":"rcbMenu","url":"rcbMenu"
+
+    },{
+
+      "name":"rcbMenuExport","url":"rcbMenuExport"
+
+    },{
+
+      "name":"rcbMenuUpdate","url":"rcbMenuUpdate"
+
+    },{
+
+      "name":"rcbMethodReview","url":"rcbMethodReview"
+
+    },{
+
+      "name":"rcbMfgPartSupply","url":"rcbMfgPartSupply"
+
+    },{
+
+      "name":"rcbMfgToStk","url":"rcbMfgToStk"
+
+    },{
+
+      "name":"rcbMfgToStk4x6","url":"rcbMfgToStk4x6"
+
+    },{
+
+      "name":"rcbMfgToStkByPrt","url":"rcbMfgToStkByPrt"
+
+    },{
+
+      "name":"rcbMfgToStkLastDtFGI","url":"rcbMfgToStkLastDtFGI"
+
+    },{
+
+      "name":"rcbMfgToStkLastDtSUB","url":"rcbMfgToStkLastDtSUB"
+
+    },{
+
+      "name":"rcbMfgToStkLbl","url":"rcbMfgToStkLbl"
+
+    },{
+
+      "name":"rcbMFGToStkList","url":"rcbMFGToStkList"
+
+    },{
+
+      "name":"rcbMfgVar","url":"rcbMfgVar"
+
+    },{
+
+      "name":"rcbMfgVarDtl","url":"rcbMfgVarDtl"
+
+    },{
+
+      "name":"rcbMinMaxOHValue","url":"rcbMinMaxOHValue"
+
+    },{
+
+      "name":"rcbMinVsOHQty","url":"rcbMinVsOHQty"
+
+    },{
+
+      "name":"rcbMntJobList","url":"rcbMntJobList"
+
+    },{
+
+      "name":"rcbMntJobSchChk","url":"rcbMntJobSchChk"
+
+    },{
+
+      "name":"rcbMOMBillOfMat","url":"rcbMOMBillOfMat"
+
+    },{
+
+      "name":"rcbMOMBillOfOps","url":"rcbMOMBillOfOps"
+
+    },{
+
+      "name":"rcbMOMPart","url":"rcbMOMPart"
+
+    },{
+
+      "name":"rcbMOMRev","url":"rcbMOMRev"
+
+    },{
+
+      "name":"rcbMTDActVsErnHrs","url":"rcbMTDActVsErnHrs"
+
+    },{
+
+      "name":"rcbMTDPctEaOnTime","url":"rcbMTDPctEaOnTime"
+
+    },{
+
+      "name":"rcbMTDPctOnTime","url":"rcbMTDPctOnTime"
+
+    },{
+
+      "name":"rcbMTDShipVsDmdExport","url":"rcbMTDShipVsDmdExport"
+
+    },{
+
+      "name":"rcbMtlCostPerJob","url":"rcbMtlCostPerJob"
+
+    },{
+
+      "name":"rcbMtlCstByFinPrt","url":"rcbMtlCstByFinPrt"
+
+    },{
+
+      "name":"rcbMtlCstRvwClassLst","url":"rcbMtlCstRvwClassLst"
+
+    },{
+
+      "name":"rcbMtlJobs","url":"rcbMtlJobs"
+
+    },{
+
+      "name":"rcbMtlPOCost","url":"rcbMtlPOCost"
+
+    },{
+
+      "name":"rcbMtlUsage","url":"rcbMtlUsage"
+
+    },{
+
+      "name":"rcbNCFailed","url":"rcbNCFailed"
+
+    },{
+
+      "name":"rcbNCRLabel","url":"rcbNCRLabel"
+
+    },{
+
+      "name":"rcbNCRReport","url":"rcbNCRReport"
+
+    },{
+
+      "name":"rcbNCRReview","url":"rcbNCRReview"
+
+    },{
+
+      "name":"rcbNCRScrapActivity","url":"rcbNCRScrapActivity"
+
+    },{
+
+      "name":"rcbNewEmpAbs","url":"rcbNewEmpAbs"
+
+    },{
+
+      "name":"rcbNewEmpSCI","url":"rcbNewEmpSCI"
+
+    },{
+
+      "name":"rcbNewSOBkDt","url":"rcbNewSOBkDt"
+
+    },{
+
+      "name":"rcbNonPrtPrtRcpts","url":"rcbNonPrtPrtRcpts"
+
+    },{
+
+      "name":"rcbOHInvLstTrnDt","url":"rcbOHInvLstTrnDt"
+
+    },{
+
+      "name":"rcbOHMfgPrts","url":"rcbOHMfgPrts"
+
+    },{
+
+      "name":"rcbOnHandByBin","url":"rcbOnHandByBin"
+
+    },{
+
+      "name":"rcbOpenDMRSearch","url":"rcbOpenDMRSearch"
+
+    },{
+
+      "name":"rcbOpenJobDtTmDtl","url":"rcbOpenJobDtTmDtl"
+
+    },{
+
+      "name":"rcbOpenJobOperations","url":"rcbOpenJobOperations"
+
+    },{
+
+      "name":"rcbOpenJobOpsNew","url":"rcbOpenJobOpsNew"
+
+    },{
+
+      "name":"rcbOpenJobs","url":"rcbOpenJobs"
+
+    },{
+
+      "name":"rcbOpenJobsMfgToStk","url":"rcbOpenJobsMfgToStk"
+
+    },{
+
+      "name":"rcbOpenPO","url":"rcbOpenPO"
+
+    },{
+
+      "name":"rcbOpenPOSub","url":"rcbOpenPOSub"
+
+    },{
+
+      "name":"rcbOpenPriorityJobs","url":"rcbOpenPriorityJobs"
+
+    },{
+
+      "name":"rcbOpenReqAll","url":"rcbOpenReqAll"
+
+    },{
+
+      "name":"rcbOpenReqRqstr","url":"rcbOpenReqRqstr"
+
+    },{
+
+      "name":"rcbOpenSalesReleases","url":"rcbOpenSalesReleases"
+
+    },{
+
+      "name":"rcbOpenSalesWAppMthd","url":"rcbOpenSalesWAppMthd"
+
+    },{
+
+      "name":"rcbOpenSubcontractPO","url":"rcbOpenSubcontractPO"
+
+    },{
+
+      "name":"rcbOpenSubToJob","url":"rcbOpenSubToJob"
+
+    },{
+
+      "name":"rcbOpIntervalTime","url":"rcbOpIntervalTime"
+
+    },{
+
+      "name":"rcbOpnDmd","url":"rcbOpnDmd"
+
+    },{
+
+      "name":"rcbOpnJobsWLstOpComp","url":"rcbOpnJobsWLstOpComp"
+
+    },{
+
+      "name":"rcbOpnOrdLnWOMthd","url":"rcbOpnOrdLnWOMthd"
+
+    },{
+
+      "name":"rcbOpnOrdMtlWOApprvMthd","url":"rcbOpnOrdMtlWOApprvMthd"
+
+    },{
+
+      "name":"rcbOpnOrdWOApprvMthd","url":"rcbOpnOrdWOApprvMthd"
+
+    },{
+
+      "name":"rcbOpnRelWOAppMthd","url":"rcbOpnRelWOAppMthd"
+
+    },{
+
+      "name":"rcbOpnSORel","url":"rcbOpnSORel"
+
+    },{
+
+      "name":"rcbOpQtyList","url":"rcbOpQtyList"
+
+    },{
+
+      "name":"rcbOpQtyStatus","url":"rcbOpQtyStatus"
+
+    },{
+
+      "name":"rcbOrderLnChk","url":"rcbOrderLnChk"
+
+    },{
+
+      "name":"rcbOrderLnRelList","url":"rcbOrderLnRelList"
+
+    },{
+
+      "name":"rcbOsmOspAnlys","url":"rcbOsmOspAnlys"
+
+    },{
+
+      "name":"rcbOsmOspFcst","url":"rcbOsmOspFcst"
+
+    },{
+
+      "name":"rcbOsmOspSup","url":"rcbOsmOspSup"
+
+    },{
+
+      "name":"rcbOTDBasic","url":"rcbOTDBasic"
+
+    },{
+
+      "name":"rcbOTDGaugesExport","url":"rcbOTDGaugesExport"
+
+    },{
+
+      "name":"rcbPartAppRevSearch","url":"rcbPartAppRevSearch"
+
+    },{
+
+      "name":"rcbPartAvgCostOHQty","url":"rcbPartAvgCostOHQty"
+
+    },{
+
+      "name":"rcbPartClass","url":"rcbPartClass"
+
+    },{
+
+      "name":"rcbPartClassList","url":"rcbPartClassList"
+
+    },{
+
+      "name":"rcbPartClassToGL","url":"rcbPartClassToGL"
+
+    },{
+
+      "name":"rcbPartComments","url":"rcbPartComments"
+
+    },{
+
+      "name":"rcbPartCostRvw","url":"rcbPartCostRvw"
+
+    },{
+
+      "name":"rcbPartListM","url":"rcbPartListM"
+
+    },{
+
+      "name":"rcbPartListP","url":"rcbPartListP"
+
+    },{
+
+      "name":"rcbPartLotTag","url":"rcbPartLotTag"
+
+    },{
+
+      "name":"rcbPartMtlLst","url":"rcbPartMtlLst"
+
+    },{
+
+      "name":"rcbPartMvmtRvw","url":"rcbPartMvmtRvw"
+
+    },{
+
+      "name":"rcbPartOHQty","url":"rcbPartOHQty"
+
+    },{
+
+      "name":"rcbPartOpStSrch","url":"rcbPartOpStSrch"
+
+    },{
+
+      "name":"rcbPartPlantAnalysis","url":"rcbPartPlantAnalysis"
+
+    },{
+
+      "name":"rcbPartPriceReview","url":"rcbPartPriceReview"
+
+    },{
+
+      "name":"rcbPartQtyOpenJobs","url":"rcbPartQtyOpenJobs"
+
+    },{
+
+      "name":"rcbPartsByResourceGroup","url":"rcbPartsByResourceGroup"
+
+    },{
+
+      "name":"rcbPartsBySelectResGrps","url":"rcbPartsBySelectResGrps"
+
+    },{
+
+      "name":"rcbPartsWOFinalOp","url":"rcbPartsWOFinalOp"
+
+    },{
+
+      "name":"rcbPastDueDtl","url":"rcbPastDueDtl"
+
+    },{
+
+      "name":"rcbPastDueHrs","url":"rcbPastDueHrs"
+
+    },{
+
+      "name":"rcbPastDueSO","url":"rcbPastDueSO"
+
+    },{
+
+      "name":"rcbPayHrsVsDtl","url":"rcbPayHrsVsDtl"
+
+    },{
+
+      "name":"rcbPkCertLbl","url":"rcbPkCertLbl"
+
+    },{
+
+      "name":"rcbPkgBCLbl","url":"rcbPkgBCLbl"
+
+    },{
+
+      "name":"rcbPLRCust","url":"rcbPLRCust"
+
+    },{
+
+      "name":"rcbPLRParts","url":"rcbPLRParts"
+
+    },{
+
+      "name":"rcbPLRPrcLst","url":"rcbPLRPrcLst"
+
+    },{
+
+      "name":"rcbPOAccountability","url":"rcbPOAccountability"
+
+    },{
+
+      "name":"rcbPOByOrdDt","url":"rcbPOByOrdDt"
+
+    },{
+
+      "name":"rcbPOByOrderDate","url":"rcbPOByOrderDate"
+
+    },{
+
+      "name":"rcbPOCheck","url":"rcbPOCheck"
+
+    },{
+
+      "name":"rcbPODemandSub","url":"rcbPODemandSub"
+
+    },{
+
+      "name":"rcbPODueAfterSchDt","url":"rcbPODueAfterSchDt"
+
+    },{
+
+      "name":"rcbPOExp","url":"rcbPOExp"
+
+    },{
+
+      "name":"rcbPOHTypeBin","url":"rcbPOHTypeBin"
+
+    },{
+
+      "name":"rcbPOLnStSrch","url":"rcbPOLnStSrch"
+
+    },{
+
+      "name":"rcbPOMiscChrgToGL","url":"rcbPOMiscChrgToGL"
+
+    },{
+
+      "name":"rcbPORelByDate","url":"rcbPORelByDate"
+
+    },{
+
+      "name":"rcbPOReqRpt","url":"rcbPOReqRpt"
+
+    },{
+
+      "name":"rcbPORptDB","url":"rcbPORptDB"
+
+    },{
+
+      "name":"rcbPositivePaySCI","url":"rcbPositivePaySCI"
+
+    },{
+
+      "name":"rcbPOSug","url":"rcbPOSug"
+
+    },{
+
+      "name":"rcbPOSugg","url":"rcbPOSugg"
+
+    },{
+
+      "name":"rcbPriceLstVsMthdCheck","url":"rcbPriceLstVsMthdCheck"
+
+    },{
+
+      "name":"rcbPriceLstVsMthdLeadTime","url":"rcbPriceLstVsMthdLeadTime"
+
+    },{
+
+      "name":"rcbPriorityJobs","url":"rcbPriorityJobs"
+
+    },{
+
+      "name":"rcbProdGroupToGL","url":"rcbProdGroupToGL"
+
+    },{
+
+      "name":"rcbProdMedDtl","url":"rcbProdMedDtl"
+
+    },{
+
+      "name":"rcbProdMedianAvg","url":"rcbProdMedianAvg"
+
+    },{
+
+      "name":"rcbProgDispRpt","url":"rcbProgDispRpt"
+
+    },{
+
+      "name":"rcbPrtCustIDChk","url":"rcbPrtCustIDChk"
+
+    },{
+
+      "name":"rcbPrtECAnls","url":"rcbPrtECAnls"
+
+    },{
+
+      "name":"rcbPrtLeadTimes","url":"rcbPrtLeadTimes"
+
+    },{
+
+      "name":"rcbPrtsInPrcs","url":"rcbPrtsInPrcs"
+
+    },{
+
+      "name":"rcbPrtsResGrid","url":"rcbPrtsResGrid"
+
+    },{
+
+      "name":"rcbPurchUnitCost","url":"rcbPurchUnitCost"
+
+    },{
+
+      "name":"rcbQAMrbDmrActnLst","url":"rcbQAMrbDmrActnLst"
+
+    },{
+
+      "name":"rcbQAOpenCA","url":"rcbQAOpenCA"
+
+    },{
+
+      "name":"rcbQAOpenDMR","url":"rcbQAOpenDMR"
+
+    },{
+
+      "name":"rcbQAToApprvLst","url":"rcbQAToApprvLst"
+
+    },{
+
+      "name":"rcbQSCustomerByGroup","url":"rcbQSCustomerByGroup"
+
+    },{
+
+      "name":"rcbQSEquipDesc","url":"rcbQSEquipDesc"
+
+    },{
+
+      "name":"rcbQSLot","url":"rcbQSLot"
+
+    },{
+
+      "name":"rcbRapidPay","url":"rcbRapidPay"
+
+    },{
+
+      "name":"rcbRapidPay2Wk","url":"rcbRapidPay2Wk"
+
+    },{
+
+      "name":"rcbRcdArrNoRec","url":"rcbRcdArrNoRec"
+
+    },{
+
+      "name":"rcbRcvInq","url":"rcbRcvInq"
+
+    },{
+
+      "name":"rcbRcvInspPnd","url":"rcbRcvInspPnd"
+
+    },{
+
+      "name":"rcbRcvPrtInsp","url":"rcbRcvPrtInsp"
+
+    },{
+
+      "name":"rcbRcvPrtsInPrtMstr","url":"rcbRcvPrtsInPrtMstr"
+
+    },{
+
+      "name":"rcbRcvPrtsNotInPrtMstr","url":"rcbRcvPrtsNotInPrtMstr"
+
+    },{
+
+      "name":"rcbReasonToGL","url":"rcbReasonToGL"
+
+    },{
+
+      "name":"rcbRecNotInv","url":"rcbRecNotInv"
+
+    },{
+
+      "name":"rcbReportStyles","url":"rcbReportStyles"
+
+    },{
+
+      "name":"rcbReqDetail","url":"rcbReqDetail"
+
+    },{
+
+      "name":"rcbReqHeader","url":"rcbReqHeader"
+
+    },{
+
+      "name":"rcbReqPendingAll","url":"rcbReqPendingAll"
+
+    },{
+
+      "name":"rcbRequisitionPending","url":"rcbRequisitionPending"
+
+    },{
+
+      "name":"rcbRequsitionPending","url":"rcbRequsitionPending"
+
+    },{
+
+      "name":"rcbResGrpAudit","url":"rcbResGrpAudit"
+
+    },{
+
+      "name":"rcbResGrpWrkGps","url":"rcbResGrpWrkGps"
+
+    },{
+
+      "name":"rcbResourceGroups","url":"rcbResourceGroups"
+
+    },{
+
+      "name":"rcbResResGrp","url":"rcbResResGrp"
+
+    },{
+
+      "name":"rcbReworkHrs","url":"rcbReworkHrs"
+
+    },{
+
+      "name":"rcbRMADashBrd","url":"rcbRMADashBrd"
+
+    },{
+
+      "name":"rcbRMADisposition","url":"rcbRMADisposition"
+
+    },{
+
+      "name":"rcbRMADshBrd","url":"rcbRMADshBrd"
+
+    },{
+
+      "name":"rcbRMADshCrdt","url":"rcbRMADshCrdt"
+
+    },{
+
+      "name":"rcbRMAShpVsRtn","url":"rcbRMAShpVsRtn"
+
+    },{
+
+      "name":"rcbRMAtoDMR","url":"rcbRMAtoDMR"
+
+    },{
+
+      "name":"rcbRoleDDLst","url":"rcbRoleDDLst"
+
+    },{
+
+      "name":"rcbRwkMthdRpt","url":"rcbRwkMthdRpt"
+
+    },{
+
+      "name":"rcbRwOsmOsp","url":"rcbRwOsmOsp"
+
+    },{
+
+      "name":"rcbSafetyGauges","url":"rcbSafetyGauges"
+
+    },{
+
+      "name":"rcbSalesGrossMargin","url":"rcbSalesGrossMargin"
+
+    },{
+
+      "name":"rcbSBNI","url":"rcbSBNI"
+
+    },{
+
+      "name":"rcbSchDemand","url":"rcbSchDemand"
+
+    },{
+
+      "name":"rcbSchForecast","url":"rcbSchForecast"
+
+    },{
+
+      "name":"rcbSchMinOHQty","url":"rcbSchMinOHQty"
+
+    },{
+
+      "name":"rcbSchOH","url":"rcbSchOH"
+
+    },{
+
+      "name":"rcbSchPastDue","url":"rcbSchPastDue"
+
+    },{
+
+      "name":"rcbSchShpOnHnd","url":"rcbSchShpOnHnd"
+
+    },{
+
+      "name":"rcbSchShpRpt","url":"rcbSchShpRpt"
+
+    },{
+
+      "name":"rcbSchShpRptMTO","url":"rcbSchShpRptMTO"
+
+    },{
+
+      "name":"rcbSchSupply","url":"rcbSchSupply"
+
+    },{
+
+      "name":"rcbSCIJobTrvWIP","url":"rcbSCIJobTrvWIP"
+
+    },{
+
+      "name":"rcbScrapByJobOp","url":"rcbScrapByJobOp"
+
+    },{
+
+      "name":"rcbScrapByReasonMTD","url":"rcbScrapByReasonMTD"
+
+    },{
+
+      "name":"rcbScrapByReasonMTDExport","url":"rcbScrapByReasonMTDExport"
+
+    },{
+
+      "name":"rcbScrapByReasonYTD","url":"rcbScrapByReasonYTD"
+
+    },{
+
+      "name":"rcbScrapByReasonYTDExport","url":"rcbScrapByReasonYTDExport"
+
+    },{
+
+      "name":"rcbScrapCostByJob","url":"rcbScrapCostByJob"
+
+    },{
+
+      "name":"rcbScrapTotals","url":"rcbScrapTotals"
+
+    },{
+
+      "name":"rcbScrapTtlsRpt","url":"rcbScrapTtlsRpt"
+
+    },{
+
+      "name":"rcbScToSlsMo","url":"rcbScToSlsMo"
+
+    },{
+
+      "name":"rcbScToSlsMTD","url":"rcbScToSlsMTD"
+
+    },{
+
+      "name":"rcbScToSlsMTDExport","url":"rcbScToSlsMTDExport"
+
+    },{
+
+      "name":"rcbScToSlsYr","url":"rcbScToSlsYr"
+
+    },{
+
+      "name":"rcbScToSlsYrExport","url":"rcbScToSlsYrExport"
+
+    },{
+
+      "name":"rcbScToSlsYTD","url":"rcbScToSlsYTD"
+
+    },{
+
+      "name":"rcbScToSlsYTDExport","url":"rcbScToSlsYTDExport"
+
+    },{
+
+      "name":"rcbSearchCustXPrt","url":"rcbSearchCustXPrt"
+
+    },{
+
+      "name":"rcbSecGroupExport","url":"rcbSecGroupExport"
+
+    },{
+
+      "name":"rcbSecGrpSearch","url":"rcbSecGrpSearch"
+
+    },{
+
+      "name":"rcbSecurity","url":"rcbSecurity"
+
+    },{
+
+      "name":"rcbSecurityExport","url":"rcbSecurityExport"
+
+    },{
+
+      "name":"rcbSecurityGroup","url":"rcbSecurityGroup"
+
+    },{
+
+      "name":"rcbSetMedianAvg","url":"rcbSetMedianAvg"
+
+    },{
+
+      "name":"rcbSetStdMedDtl","url":"rcbSetStdMedDtl"
+
+    },{
+
+      "name":"rcbShipLate","url":"rcbShipLate"
+
+    },{
+
+      "name":"rcbShipmentsVsDemand","url":"rcbShipmentsVsDemand"
+
+    },{
+
+      "name":"rcbShipPastNeedDate","url":"rcbShipPastNeedDate"
+
+    },{
+
+      "name":"rcbShipPckLst","url":"rcbShipPckLst"
+
+    },{
+
+      "name":"rcbShipQtyByCust","url":"rcbShipQtyByCust"
+
+    },{
+
+      "name":"rcbShipVsDmd12","url":"rcbShipVsDmd12"
+
+    },{
+
+      "name":"rcbSlsBklg","url":"rcbSlsBklg"
+
+    },{
+
+      "name":"rcbSlsInvMiscLnF","url":"rcbSlsInvMiscLnF"
+
+    },{
+
+      "name":"rcbSlsLnWOxRef","url":"rcbSlsLnWOxRef"
+
+    },{
+
+      "name":"rcbSlsMiscChrgToGL","url":"rcbSlsMiscChrgToGL"
+
+    },{
+
+      "name":"rcbSlsMiscLnF","url":"rcbSlsMiscLnF"
+
+    },{
+
+      "name":"rcbSlsOpenOrdWXDt","url":"rcbSlsOpenOrdWXDt"
+
+    },{
+
+      "name":"rcbSlsOrdCmnts","url":"rcbSlsOrdCmnts"
+
+    },{
+
+      "name":"rcbSlsOrderNoShp","url":"rcbSlsOrderNoShp"
+
+    },{
+
+      "name":"rcbSObyOrdDt","url":"rcbSObyOrdDt"
+
+    },{
+
+      "name":"rcbSObyRelChng","url":"rcbSObyRelChng"
+
+    },{
+
+      "name":"rcbSOGraphByDt","url":"rcbSOGraphByDt"
+
+    },{
+
+      "name":"rcbSOMiscChrgRvw","url":"rcbSOMiscChrgRvw"
+
+    },{
+
+      "name":"rcbSOPickToShip","url":"rcbSOPickToShip"
+
+    },{
+
+      "name":"rcbSOShip","url":"rcbSOShip"
+
+    },{
+
+      "name":"rcbStdMedDtl","url":"rcbStdMedDtl"
+
+    },{
+
+      "name":"rcbStdMedianAvg","url":"rcbStdMedianAvg"
+
+    },{
+
+      "name":"rcbStkStatRpt","url":"rcbStkStatRpt"
+
+    },{
+
+      "name":"rcbStkStatWOpnPO","url":"rcbStkStatWOpnPO"
+
+    },{
+
+      "name":"rcbSTKToCUSDtl","url":"rcbSTKToCUSDtl"
+
+    },{
+
+      "name":"rcbStockStatus","url":"rcbStockStatus"
+
+    },{
+
+      "name":"rcbStockStatusWOnOrder","url":"rcbStockStatusWOnOrder"
+
+    },{
+
+      "name":"rcbSubPartMtlStatus","url":"rcbSubPartMtlStatus"
+
+    },{
+
+      "name":"rcbSubPartsList","url":"rcbSubPartsList"
+
+    },{
+
+      "name":"rcbSubPriceLst","url":"rcbSubPriceLst"
+
+    },{
+
+      "name":"rcbSupContacts","url":"rcbSupContacts"
+
+    },{
+
+      "name":"rcbSupCtlLst","url":"rcbSupCtlLst"
+
+    },{
+
+      "name":"rcbSupMainAddr","url":"rcbSupMainAddr"
+
+    },{
+
+      "name":"rcbSupplierPriceList","url":"rcbSupplierPriceList"
+
+    },{
+
+      "name":"rcbSupPmtInfo","url":"rcbSupPmtInfo"
+
+    },{
+
+      "name":"rcbSuppSpnd","url":"rcbSuppSpnd"
+
+    },{
+
+      "name":"rcbSupScrCrdRpt","url":"rcbSupScrCrdRpt"
+
+    },{
+
+      "name":"rcbSupScrDtl","url":"rcbSupScrDtl"
+
+    },{
+
+      "name":"rcbSupSpndDsh","url":"rcbSupSpndDsh"
+
+    },{
+
+      "name":"rcbTestADPHrsRvw","url":"rcbTestADPHrsRvw"
+
+    },{
+
+      "name":"rcbTestAllEmp","url":"rcbTestAllEmp"
+
+    },{
+
+      "name":"rcbTestC","url":"rcbTestC"
+
+    },{
+
+      "name":"rcbTestCo","url":"rcbTestCo"
+
+    },{
+
+      "name":"rcbTestEngineerList","url":"rcbTestEngineerList"
+
+    },{
+
+      "name":"rcbTestJobStatChart","url":"rcbTestJobStatChart"
+
+    },{
+
+      "name":"rcbTestLbr65821","url":"rcbTestLbr65821"
+
+    },{
+
+      "name":"rcbTestLstMfg","url":"rcbTestLstMfg"
+
+    },{
+
+      "name":"rcbTestMet","url":"rcbTestMet"
+
+    },{
+
+      "name":"rcbTestReq","url":"rcbTestReq"
+
+    },{
+
+      "name":"rcbTestReqPend","url":"rcbTestReqPend"
+
+    },{
+
+      "name":"rcbTestSupervisor","url":"rcbTestSupervisor"
+
+    },{
+
+      "name":"rcbTestUD30","url":"rcbTestUD30"
+
+    },{
+
+      "name":"rcbTestUD31","url":"rcbTestUD31"
+
+    },{
+
+      "name":"rcbTestUpdate","url":"rcbTestUpdate"
+
+    },{
+
+      "name":"rcbTestUpdateDateCreated","url":"rcbTestUpdateDateCreated"
+
+    },{
+
+      "name":"rcbTimePhase","url":"rcbTimePhase"
+
+    },{
+
+      "name":"rcbTimesheet","url":"rcbTimesheet"
+
+    },{
+
+      "name":"rcbTimesheetDetail","url":"rcbTimesheetDetail"
+
+    },{
+
+      "name":"rcbTimesheetReport","url":"rcbTimesheetReport"
+
+    },{
+
+      "name":"rcbTimesheetRpt","url":"rcbTimesheetRpt"
+
+    },{
+
+      "name":"rcbTimesheetSummary","url":"rcbTimesheetSummary"
+
+    },{
+
+      "name":"rcbTimesheetSupervisor","url":"rcbTimesheetSupervisor"
+
+    },{
+
+      "name":"rcbTrainAttdRpt","url":"rcbTrainAttdRpt"
+
+    },{
+
+      "name":"rcbTrainingAttd","url":"rcbTrainingAttd"
+
+    },{
+
+      "name":"rcbTrainingCourse","url":"rcbTrainingCourse"
+
+    },{
+
+      "name":"rcbTrainingEmployeeList","url":"rcbTrainingEmployeeList"
+
+    },{
+
+      "name":"rcbTrainingMgrEmp","url":"rcbTrainingMgrEmp"
+
+    },{
+
+      "name":"rcbUD10","url":"rcbUD10"
+
+    },{
+
+      "name":"rcbUD13","url":"rcbUD13"
+
+    },{
+
+      "name":"rcbUD20Disposition","url":"rcbUD20Disposition"
+
+    },{
+
+      "name":"rcbUD20DropDown","url":"rcbUD20DropDown"
+
+    },{
+
+      "name":"rcbUD20ExportControl","url":"rcbUD20ExportControl"
+
+    },{
+
+      "name":"rcbUD20MaterialSpecList","url":"rcbUD20MaterialSpecList"
+
+    },{
+
+      "name":"rcbUD30CustXPrt","url":"rcbUD30CustXPrt"
+
+    },{
+
+      "name":"rcbUD30OrderGrid","url":"rcbUD30OrderGrid"
+
+    },{
+
+      "name":"rcbUD30PartRevList","url":"rcbUD30PartRevList"
+
+    },{
+
+      "name":"rcbUnRelJobs","url":"rcbUnRelJobs"
+
+    },{
+
+      "name":"rcbUnscheduledOps","url":"rcbUnscheduledOps"
+
+    },{
+
+      "name":"rcbUnSchJobs","url":"rcbUnSchJobs"
+
+    },{
+
+      "name":"rcbUser","url":"rcbUser"
+
+    },{
+
+      "name":"rcbUserFileExport","url":"rcbUserFileExport"
+
+    },{
+
+      "name":"rcbWhereUsed","url":"rcbWhereUsed"
+
+    },{
+
+      "name":"rcbWIP","url":"rcbWIP"
+
+    },{
+
+      "name":"rcbWIPAgingOpen","url":"rcbWIPAgingOpen"
+
+    },{
+
+      "name":"rcbWIPCycleTime","url":"rcbWIPCycleTime"
+
+    },{
+
+      "name":"rcbWkndHrsRpt","url":"rcbWkndHrsRpt"
+
+    },{
+
+      "name":"rcbWkndHrsRvw","url":"rcbWkndHrsRvw"
+
+    },{
+
+      "name":"rcbWorkgroupSettings","url":"rcbWorkgroupSettings"
+
+    },{
+
+      "name":"rcbYTD12OnTime","url":"rcbYTD12OnTime"
+
+    },{
+
+      "name":"rcbZeroOpChk","url":"rcbZeroOpChk"
+
+    },{
+
+      "name":"rcscJobStatus","url":"rcscJobStatus"
+
+    },{
+
+      "name":"SalesOrderStatus_C1","url":"SalesOrderStatus_C1"
+
+    }
+
+  ]
+
+}
+--------------------------------------------------------------------------------
+

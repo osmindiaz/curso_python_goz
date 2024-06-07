@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------
+Username=Incorrecto / Password=Incorrecto
+--------------------------------------------------------------------------------
+Codigo del estado de la respuesta:
+401
+
+--------------------------------------------------------------------------------
+
+Contenido de la respuesta:
+{"HttpStatus":401,"ReasonPhrase":"REST API Exception","ErrorMessage":"Invalid username or password.","ErrorType":"System.UnauthorizedAccessException","CorrelationId":"21c11679-944f-49fe-9275-cecd9c3bd391"}
+--------------------------------------------------------------------------------
+
